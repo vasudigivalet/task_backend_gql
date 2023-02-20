@@ -1,0 +1,34 @@
+  scalar DateTime
+
+  type studentDetails {
+  id:ID!
+  studentName: String!
+  classId: String!
+  gender: String!
+  email:String!
+  dateofbirth:DateTime!
+  address:String!
+  }
+
+#create class Input 
+  input createStudentinput{
+  studentName: String!
+  classId: String!
+  gender: String!
+  email:String!
+  dateofbirth:DateTime!
+  address:String!
+  }
+
+  type Query {
+    #class Query
+    students: [studentDetails!]!
+    student(id:ID!):studentDetails!
+  }
+ 
+  type Mutation{
+    #class Mutation
+    createStudent(input:createStudentinput!):studentDetails
+    updateStudent(id:ID!,input:createStudentinput):studentDetails
+    deleteStudent(id:ID!):studentDetails
+  }

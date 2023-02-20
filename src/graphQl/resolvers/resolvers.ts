@@ -1,18 +1,33 @@
-// Resolvers define how to fetch the types defined in your schema.
-// This resolver retrieves books from the "books" array above.
-const books = [
-  {
-    title: "The Awakening",
-    author: "Kate Chopin",
-  },
-  {
-    title: "City of Glass",
-    author: "Paul Auster",
-  },
-];
+import { createstudent } from "../../controllers/student.controller";
 
-export const resolvers = {
+import {
+  createclass,
+  displayClass,
+  displayClassByID,
+  deleteClass,
+  updateClass,
+} from '../../controllers/class.controller';
+
+// Resolvers define how to fetch the types defined in your schema.
+ export const resolvers = {
+
+  
   Query: {
-    books: () => books,
+    //class Query
+    classes: displayClass,
+    class: displayClassByID,
+
+    //student Query
+  
+  },
+
+  Mutation: {
+    //class Mutation
+    createClass: createclass,
+    updateClass: updateClass,
+    deleteClass: deleteClass,
+
+    //Student Mutation
+    createStudent:createstudent,
   },
 };

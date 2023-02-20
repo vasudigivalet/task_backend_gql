@@ -1,0 +1,27 @@
+#class Details
+type classDetails {
+  id: ID!
+  className: String!
+  standard: String!
+  section: String!
+}
+
+#create class Input
+input createClassinput {
+  className: String!
+  standard: String!
+  section: String!
+}
+
+type Query {
+  #class Query
+  classes: [classDetails!]!
+  class(id: ID!): classDetails!
+}
+
+type Mutation {
+  #class Mutation
+  createClass(input: createClassinput!): classDetails
+  updateClass(id: ID!, input: createClassinput): classDetails
+  deleteClass(id: ID!): classDetails
+}
