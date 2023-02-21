@@ -7,12 +7,10 @@ import http from "http";
 import { ApolloServer } from "@apollo/server";
 import { expressMiddleware } from "@apollo/server/express4";
 import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHttpServer";
-import { resolvers } from "./graphQl/resolvers/resolvers";
-import { typeDefs } from "./type-defs";
+import { resolvers } from "./graphQl/resolvers/index";
+import { typeDefs } from "./graphQl/schema";
 
-// import { resolver } from "./resolvers";
-
-
+const port = 4000;
 // import cors from "cors";
 const executeMain = async () => {
   interface MyContext {
@@ -51,9 +49,9 @@ const executeMain = async () => {
 
   // Modified server startup
   await new Promise<void>((resolve) =>
-    httpServer.listen({ port: 4000 }, resolve),
+    httpServer.listen({ port }, resolve),
   );
-  console.log(`🚀 Server ready at http://localhost:4000/`);
+  console.log(`🚀 Server ready at http://localhost:${port}/`);
 };
 
 executeMain().catch((error) => {

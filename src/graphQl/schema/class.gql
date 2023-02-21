@@ -1,27 +1,29 @@
 #class Details
 type classDetails {
-  id: ID!
-  className: String!
+  _id: ID!
+  name: String!
   standard: String!
   section: String!
+  updatedAt: DateTime!
+  createdAt: DateTime!
 }
 
 #create class Input
-input createClassinput {
-  className: String!
+input CreateClassInput {
+  name: String!
   standard: String!
   section: String!
 }
 
 type Query {
   #class Query
-  classes: [classDetails!]!
-  class(id: ID!): classDetails!
+  classes: [classDetails]
+  class(_id: ID!): classDetails
 }
 
 type Mutation {
   #class Mutation
-  createClass(input: createClassinput!): classDetails
-  updateClass(id: ID!, input: createClassinput): classDetails
-  deleteClass(id: ID!): classDetails
+  createClass(input: CreateClassInput!): classDetails
+  updateClass(_id: ID!, CreateClassInput: CreateClassInput): classDetails
+  deleteClass(_id: ID!): classDetails
 }

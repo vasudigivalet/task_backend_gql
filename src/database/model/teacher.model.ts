@@ -3,22 +3,22 @@ import { ObjectId } from "mongodb";
 
 interface teacherDoc {
   id: ObjectId;
-  teacherName: string;
-  classIds: number[];
+  name: string;
+  classId: [ObjectId];
   gender: string;
   email: string;
-  dateofbirth: Date;
+  dateOfbirth: Date;
   address: string;
   timestamps: boolean;
 }
 
 const teacherSchema = new mongoose.Schema<teacherDoc>(
   {
-    teacherName: {
+    name: {
       type: String,
       required: true,
     },
-    classIds: Array<teacherDoc>,
+    classId: [ObjectId],
     gender: {
       type: String,
       required: true,
@@ -27,7 +27,7 @@ const teacherSchema = new mongoose.Schema<teacherDoc>(
       type: String,
       required: true,
     },
-    dateofbirth: {
+    dateOfbirth: {
       type: Date,
       required: true,
     },

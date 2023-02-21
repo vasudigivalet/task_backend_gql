@@ -3,19 +3,19 @@ import { ObjectId } from "mongodb";
 
 interface studentDoc {
   id: ObjectId;
-  studentName: string;
+  name: string;
   profilePhoto: string;
   classId: ObjectId;
   gender: string;
   email: string;
-  dateofbirth: Date;
+  dateOfbirth: Date;
   address: string;
   timestamps: boolean;
 }
 
 const studentSchema = new mongoose.Schema<studentDoc>(
   {
-    studentName: {
+    name: {
       type: String,
       required: true,
     },
@@ -34,7 +34,7 @@ const studentSchema = new mongoose.Schema<studentDoc>(
       type: String,
       required: true,
     },
-    dateofbirth: {
+    dateOfbirth: {
       type: Date,
       required: true,
     },

@@ -1,16 +1,16 @@
-import mongoose from "mongoose";
-import { ObjectId } from "mongodb";
+import mongoose from 'mongoose';
+import { ObjectId } from 'mongodb';
 
 interface classDoc {
   id: ObjectId;
-  className: string;
+  name: string;
   section: string;
   standard: string;
   timestamps: boolean;
 }
 const classSchema = new mongoose.Schema<classDoc>(
   {
-    className: {
+    name: {
       type: String,
       required: true,
     },
@@ -20,7 +20,7 @@ const classSchema = new mongoose.Schema<classDoc>(
     },
     standard: {
       type: String,
-      required: true
+      required: true,
     },
   },
   { timestamps: true },

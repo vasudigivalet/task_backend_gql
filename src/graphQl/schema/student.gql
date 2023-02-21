@@ -1,34 +1,45 @@
-  scalar DateTime
-
-  type studentDetails {
-  id:ID!
-  studentName: String!
+scalar DateTime
+type studentDetails {
+  _id: ID!
+  name: String!
   classId: String!
-  gender: String!
-  email:String!
-  dateofbirth:DateTime!
-  address:String!
-  }
+  gender: Gender!
+  email: String!
+  dateOfbirth: DateTime!
+  address: String!
+  updatedAt: DateTime!
+  createdAt: DateTime!
+  class: [classDetails]
+}
 
-#create class Input 
-  input createStudentinput{
-  studentName: String!
+type AddStudentResponse {
+  success: Boolean!
+}
+enum Gender {
+  MALE
+  FEMALE
+  OTHERS
+}
+
+#create class Input
+input CreateStudentInput {
+  name: String!
   classId: String!
-  gender: String!
-  email:String!
-  dateofbirth:DateTime!
-  address:String!
-  }
+  gender: Gender = MALE
+  email: String!
+  dateOfbirth: DateTime!
+  address: String!
+}
 
-  type Query {
-    #class Query
-    students: [studentDetails!]!
-    student(id:ID!):studentDetails!
-  }
- 
-  type Mutation{
-    #class Mutation
-    createStudent(input:createStudentinput!):studentDetails
-    updateStudent(id:ID!,input:createStudentinput):studentDetails
-    deleteStudent(id:ID!):studentDetails
-  }
+type Query {
+  #class Query
+  students: [studentDetails]
+  student(_id: ID!): studentDetails
+}
+
+type Mutation {
+  #class Mutation
+  createStudent(CreateStudentInput: CreateStudentInput!): studentDetails
+  updateStudent(_id: ID!, input: CreateStudentInput): studentDetails
+  deleteStudent(_id: ID!): AddStudentResponse
+}

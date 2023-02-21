@@ -1,0 +1,46 @@
+scalar DateTime
+
+type teacherDetails {
+  _id: ID!
+  name: String!
+  classId: [String!]!
+  gender: Gender!
+  email: String!
+  dateOfbirth: DateTime!
+  address: String!
+  updatedAt: DateTime
+  createdAt: DateTime
+  class: [classDetails]
+}
+
+#create teachers Input
+input CreateTeacherInput {
+  name: String!
+  classId: [String!]!
+  gender: Gender = MALE
+  email: String!
+  dateOfbirth: DateTime!
+  address: String!
+}
+
+type AddStudentResponse {
+  success: Boolean!
+}
+enum Gender {
+  MALE
+  FEMALE
+  OTHERS
+}
+
+type Query {
+  #Teachers Query
+  teachers: [teacherDetails]
+  teacher(_id: ID!): teacherDetails
+}
+
+type Mutation {
+  #Teachers Mutation
+  createTeachers(input: CreateTeacherInput!): teacherDetails
+  updateTeachers(_id: ID!, input: CreateTeacherInput): teacherDetails
+  deleteTeachers(_id: ID!): teacherDetails
+}
