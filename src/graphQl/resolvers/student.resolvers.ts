@@ -1,7 +1,8 @@
-import { Student } from '../../database/modules/student.modules';
+import { Student } from "../../database/modules/student.modules";
 
 const students = new Student();
 export const resolvers = {
+
   Query: {
     //student Query
     students: students.displayStudent,
@@ -14,4 +15,6 @@ export const resolvers = {
     updateStudent: students.updateStudent,
     deleteStudent: students.deleteStudent,
   },
+
+  
 };

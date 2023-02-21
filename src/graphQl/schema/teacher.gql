@@ -23,7 +23,7 @@ input CreateTeacherInput {
   address: String!
 }
 
-type AddStudentResponse {
+type AddTeachersResponse {
   success: Boolean!
 }
 enum Gender {
@@ -35,7 +35,7 @@ enum Gender {
 type Query {
   #Teachers Query
   teachers: [teacherDetails]
-  teacher(_id: ID!): teacherDetails
+  teacher(_id: ID!): AddTeachersResponse
 }
 
 type Mutation {

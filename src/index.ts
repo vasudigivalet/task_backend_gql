@@ -10,6 +10,8 @@ import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHt
 import { resolvers } from "./graphQl/resolvers/index";
 import { typeDefs } from "./graphQl/schema";
 
+const { graphqlUploadExpress } = require('graphql-upload');
+
 const port = 4000;
 // import cors from "cors";
 const executeMain = async () => {
@@ -29,11 +31,13 @@ const executeMain = async () => {
   const server = new ApolloServer<MyContext>({
     typeDefs,
     resolvers,
+    csrfPrevention: true,
+    cache: 'bounded',
     plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
   });
   // Ensure we wait for our server to start
   await server.start();
-
+  app.use(graphqlUploadExpress());
   // Set up our Express middleware to handle CORS, body parsing,
   // and our expressMiddleware function.
   app.use(
@@ -48,9 +52,7 @@ const executeMain = async () => {
   );
 
   // Modified server startup
-  await new Promise<void>((resolve) =>
-    httpServer.listen({ port }, resolve),
-  );
+  await new Promise<void>((resolve) => httpServer.listen({ port }, resolve));
   console.log(`🚀 Server ready at http://localhost:${port}/`);
 };
 

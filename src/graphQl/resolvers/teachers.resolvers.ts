@@ -1,4 +1,4 @@
-import { Teacher } from "../../database/modules/teacher.modules";
+import { Teacher } from '../../database/modules/teacher.modules';
 
 let teacher = new Teacher();
 export const resolvers = {

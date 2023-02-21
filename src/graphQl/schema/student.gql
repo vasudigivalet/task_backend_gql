@@ -1,4 +1,11 @@
 scalar DateTime
+
+type File {
+  filename: String!
+  mimetype: String!
+  encoding: String!
+}
+
 type studentDetails {
   _id: ID!
   name: String!
