@@ -49,6 +49,6 @@ const executeMain = async () => {
   console.log(`🚀 Server ready at http://localhost:${port}/`);
 };
 
-executeMain().catch((error) => {
+executeMain().catch((error:Error) => {
   console.log(error, 'error');
 });

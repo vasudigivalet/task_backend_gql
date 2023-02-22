@@ -4,7 +4,7 @@ import { studentCollection } from '../model/student.model';
 
 export class Student {
   //create Student
-  createstudent = (parents: any, args: any) => {
+  createstudent = (parents: any, args:any) => {
     console.log(
       '🚀 ~ file: student.modules.ts:7 ~ Student ~ args:',
       args.input.profilePhoto,
