@@ -13,45 +13,38 @@ import { typeDefs } from "./graphQl/schema";
 const { graphqlUploadExpress } = require('graphql-upload');
 
 const port = 4000;
-// import cors from "cors";
+
 const executeMain = async () => {
   interface MyContext {
     token?: string;
   }
 
-  // Required logic for integrating with Express
   const app = express();
-  // Our httpServer handles incoming requests to our Express app.
-  // Below, we tell Apollo Server to "drain" this httpServer,
-  // enabling our servers to shut down gracefully.
+
   const httpServer = http.createServer(app);
 
-  // Same ApolloServer initialization as before, plus the drain plugin
-  // for our httpServer.
+  app.use(graphqlUploadExpress());
+
   const server = new ApolloServer<MyContext>({
     typeDefs,
     resolvers,
-    csrfPrevention: true,
+    csrfPrevention: false,
     cache: 'bounded',
     plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
   });
-  // Ensure we wait for our server to start
+
   await server.start();
-  app.use(graphqlUploadExpress());
-  // Set up our Express middleware to handle CORS, body parsing,
-  // and our expressMiddleware function.
+
   app.use(
     '/',
     cors<cors.CorsRequest>(),
     bodyParser.json(),
-    // expressMiddleware accepts the same arguments:
-    // an Apollo Server instance and optional configuration options
+
     expressMiddleware(server, {
       context: async ({ req }) => ({ token: req.headers.token }),
     }),
   );
 
-  // Modified server startup
   await new Promise<void>((resolve) => httpServer.listen({ port }, resolve));
   console.log(`🚀 Server ready at http://localhost:${port}/`);
 };

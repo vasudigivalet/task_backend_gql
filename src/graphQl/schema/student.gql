@@ -1,11 +1,5 @@
 scalar DateTime
 
-type File {
-  filename: String!
-  mimetype: String!
-  encoding: String!
-}
-
 type studentDetails {
   _id: ID!
   name: String!
@@ -16,6 +10,7 @@ type studentDetails {
   address: String!
   updatedAt: DateTime!
   createdAt: DateTime!
+  profilePhoto: String
   class: [classDetails]
 }
 
@@ -36,6 +31,7 @@ input CreateStudentInput {
   email: String!
   dateOfbirth: DateTime!
   address: String!
+  profilePhoto: String
 }
 
 type Query {
@@ -46,7 +42,7 @@ type Query {
 
 type Mutation {
   #class Mutation
-  createStudent(CreateStudentInput: CreateStudentInput!): studentDetails
+  createStudent(input: CreateStudentInput!): studentDetails
   updateStudent(_id: ID!, input: CreateStudentInput): studentDetails
   deleteStudent(_id: ID!): AddStudentResponse
 }

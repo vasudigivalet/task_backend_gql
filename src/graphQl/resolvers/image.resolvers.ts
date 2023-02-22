@@ -1,33 +1,47 @@
-import GraphQLUpload from 'graphql-upload/GraphQLUpload.mjs';
-import { IResolvers } from '@graphql-tools/utils';
-import { createReadStream, createWriteStream } from 'fs';
-import { join, parse } from 'path';
+import { IResolvers } from "@graphql-tools/utils";
+import { createWriteStream } from "fs";
+import { join, parse } from "path";
+
+const { finished } = require('stream/promises');
+const GraphQLUpload = require('graphql-upload');
 
 const BASE_URL = 'http://localhost:4000/';
-
+let fileData: String;
 export const resolvers: IResolvers = {
   Upload: GraphQLUpload,
+
   Query: {
-    //student Query
-    info: () => 'Hello I am Image Resolver Methodss',
+    //Image Query
+    info: () => 'Hello I am Image Resolver Methods',
   },
 
   Mutation: {
-    //Student Mutation
-    imageUploader: async (parent: any, { file }) => {
-      let { filename, createReadStream } = await file;
-      let stream = createReadStream();
+    profileUploader: async (parent, { file }) => {
+      const { createReadStream, filename } = await file.promise;
+      
+      const stream = createReadStream();
+
       let { ext, name } = parse(filename);
       name = name.replace(/([^a-z0-9]+)/gi, '-').replace(' ', '_');
-      let serverFile = join(
-        __dirname,
-        `../../uploads/${name}-${Date.now()}${ext}`,
-      );
+      let serverFile = join(__dirname, `../../uploads/${Date.now()}${ext}`);
       let writeStream = await createWriteStream(serverFile);
       await stream.pipe(writeStream);
-      serverFile = `${BASE_URL}${serverFile.split('uploads')[1]}`;
+      serverFile = `${serverFile.split('uploads/')[1]}`;
+      fileData = serverFile;
+      await finished(writeStream);
+      return `${BASE_URL}uploads/${fileData}`;
+    },
+  },
 
-      return serverFile;
+  studentDetails: {
+    profilePhoto: () => {
+      return fileData;
+    },
+  },
+
+  teacherDetails: {
+    profilePhoto: () => {
+      return fileData;
     },
   },
 };

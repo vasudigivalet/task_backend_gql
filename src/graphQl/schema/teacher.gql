@@ -10,6 +10,7 @@ type teacherDetails {
   address: String!
   updatedAt: DateTime
   createdAt: DateTime
+  profilePhoto: String
   class: [classDetails]
 }
 

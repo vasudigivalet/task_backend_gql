@@ -1,5 +1,5 @@
-import mongoose from "mongoose";
-import { ObjectId } from "mongodb";
+import mongoose from 'mongoose';
+import { ObjectId } from 'mongodb';
 
 interface teacherDoc {
   id: ObjectId;
@@ -9,6 +9,7 @@ interface teacherDoc {
   email: string;
   dateOfbirth: Date;
   address: string;
+  profilePhoto: string;
   timestamps: boolean;
 }
 
@@ -35,6 +36,7 @@ const teacherSchema = new mongoose.Schema<teacherDoc>(
       type: String,
       required: true,
     },
+    profilePhoto: { type: String },
   },
   { timestamps: true },
 );

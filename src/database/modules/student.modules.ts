@@ -1,50 +1,75 @@
-import { studentCollection } from "../model/student.model";
+import { studentCollection } from '../model/student.model';
+
+// import { fileData } from "../../graphQl/resolvers/image.resolvers";
 
 export class Student {
   //create Student
   createstudent = (parents: any, args: any) => {
-    const studentcollection = new studentCollection(args.input);
-    return studentcollection.save();
+    console.log(
+      '🚀 ~ file: student.modules.ts:7 ~ Student ~ args:',
+      args.input.profilePhoto,
+    );
+    try {
+      const studentcollection = new studentCollection(args.input);
+      return studentcollection.save();
+    } catch (err) {
+      console.log('🚀 ~ file: student.modules.ts:17 ~ Student ~ err:', err);
+    }
   };
-
   // display Student
   displayStudent = async () => {
-    return await studentCollection.aggregate([
-      {
-        $lookup: {
-          from: 'classrooms',
-          localField: 'classId',
-          foreignField: '_id',
-          as: 'class',
+    try {
+      return await studentCollection.aggregate([
+        {
+          $lookup: {
+            from: 'classrooms',
+            localField: 'classId',
+            foreignField: '_id',
+            as: 'class',
+          },
         },
-      },
-    ]);
+      ]);
+    } catch (err) {
+      console.warn('Something went Wrong', err);
+    }
   };
 
   //Display Student by ID
   displayStudentByID = async (parents: any, args: any) => {
-    await studentCollection.aggregate([
-      {
-        $lookup: {
-          from: 'classrooms',
-          localField: 'classId',
-          foreignField: '_id',
-          as: 'class',
+    try {
+      await studentCollection.aggregate([
+        {
+          $lookup: {
+            from: 'classrooms',
+            localField: 'classId',
+            foreignField: '_id',
+            as: 'class',
+          },
         },
-      },
-    ]);
-    return await studentCollection.findById(args.id);
+      ]);
+      return await studentCollection.findById(args.id);
+    } catch (err) {
+      console.warn('Something went Wrong', err);
+    }
   };
 
   //Update Student by ID
   updateStudent = async (parents: any, args: any) => {
-    return await studentCollection.findByIdAndUpdate(args.id, args.input, {
-      new: true,
-    });
+    try {
+      return await studentCollection.findByIdAndUpdate(args.id, args.input, {
+        new: true,
+      });
+    } catch (err) {
+      console.warn('Something went Wrong', err);
+    }
   };
 
   //Delete Student by ID
   deleteStudent = async (parents: any, args: any) => {
-    return await studentCollection.findByIdAndRemove(args.id);
+    try {
+      return await studentCollection.findByIdAndRemove(args.id);
+    } catch (err) {
+      console.warn('Something went Wrong', err);
+    }
   };
 }
