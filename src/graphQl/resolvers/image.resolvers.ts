@@ -1,6 +1,7 @@
 import { IResolvers } from "@graphql-tools/utils";
 import { createWriteStream } from "fs";
 import { join, parse } from "path";
+import { logger } from "../../utils/logger";
 
 const { finished } = require('stream/promises');
 const GraphQLUpload = require('graphql-upload');
@@ -28,6 +29,7 @@ export const resolvers: IResolvers = {
       await stream.pipe(writeStream);
       serverFile = `${serverFile.split('uploads/')[1]}`;
       fileData = serverFile;
+      logger.info("Successfully File Upload")
       await finished(writeStream);
       return `${BASE_URL}uploads/${fileData}`;
     },

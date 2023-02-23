@@ -9,7 +9,6 @@ import { expressMiddleware } from "@apollo/server/express4";
 import { ApolloServerPluginDrainHttpServer } from "@apollo/server/plugin/drainHttpServer";
 import { resolvers } from "./graphQl/resolvers/index";
 import { typeDefs } from "./graphQl/schema";
-
 const { graphqlUploadExpress } = require('graphql-upload');
 
 const port = 4000;

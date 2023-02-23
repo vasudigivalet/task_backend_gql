@@ -1,19 +1,15 @@
 import {getLogger,configure} from 'log4js'
+// /* Configuring the log4js to log to a file and to the console. */
 configure({
 appenders:{
-    app:{type:file,filename:"app.log"},
+    app:{type:"file",filename:"Apis.log"},
     out:{type:'stdout'}
 },
 categories:{default:{
-    appenders:["app"],
+    appenders:["app","out"],
     level:'info'
 }}
 })
-const logger = getLogger()
+export const logger = getLogger()
 
 
-logger.info("Hello")
-logger.debug('logging warning')
-logger.warn('logging warning')
-logger.error('logging error')
-logger.trace('logging trace')
