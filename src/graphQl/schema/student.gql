@@ -15,8 +15,9 @@ type studentDetails {
 }
 
 type AddStudentResponse {
-  success: Boolean!
+  success: Boolean
 }
+
 enum Gender {
   MALE
   FEMALE

@@ -24,6 +24,6 @@ type Query {
 type Mutation {
   #class Mutation
   createClass(input: CreateClassInput!): classDetails
-  updateClass(_id: ID!,input: CreateClassInput): classDetails
+  updateClass(_id: ID!, input: CreateClassInput): classDetails
   deleteClass(_id: ID!): classDetails
 }

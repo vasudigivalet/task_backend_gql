@@ -33,7 +33,7 @@ export class Class {
   displayClassByID = async (parents: any, args: any) => {
     try {
       logger.info('Successfully class of id:', args._id);
-      return await classCollection.findById(new ObjectId(args.id));
+      return await classCollection.findById(new ObjectId(args._id));
     } catch (err) {
       logger.error('something went wrong', err);
       console.warn('Something went Wrong', err);

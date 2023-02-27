@@ -5,23 +5,23 @@ import { studentCollection } from '../model/student.model';
 
 export class Student {
   //create Student
-  createstudent = (parents: any, args:any) => {
+  createstudent = (parents: any, args: any) => {
     console.log(
       '🚀 ~ file: student.modules.ts:7 ~ Student ~ args:',
       args.input.profilePhoto,
     );
     try {
-      logger.info("Created Student")
+      logger.info('Created Student');
       const studentcollection = new studentCollection(args.input);
       return studentcollection.save();
     } catch (err) {
-      logger.error('🚀 ~ file: student.modules.ts:17 ~ Student ~ err:',err )
+      logger.error('🚀 ~ file: student.modules.ts:17 ~ Student ~ err:', err);
     }
   };
   // display Student
   displayStudent = async () => {
     try {
-      logger.info("display Student Details")
+      logger.info('display Student Details');
       return await studentCollection.aggregate([
         {
           $lookup: {
@@ -33,15 +33,14 @@ export class Student {
         },
       ]);
     } catch (err) {
-      logger.error("something went wrong",err )
-     
+      logger.error('something went wrong', err);
     }
   };
 
   //Display Student by ID
   displayStudentByID = async (parents: any, args: any) => {
     try {
-      logger.debug("Display have to debug")
+      logger.debug('Display have to debug');
       await studentCollection.aggregate([
         {
           $lookup: {
@@ -52,33 +51,31 @@ export class Student {
           },
         },
       ]);
-      return await studentCollection.findById(args.id);
+      return await studentCollection.findById(args._id);
     } catch (err) {
-      logger.error("something went wrong",err )
-  
+      logger.error('something went wrong', err);
     }
   };
 
   //Update Student by ID
   updateStudent = async (parents: any, args: any) => {
     try {
-      logger.info("Update Student Successfully")
-      return await studentCollection.findByIdAndUpdate(args.id, args.input, {
+      logger.info('Update Student Successfully');
+      return await studentCollection.findByIdAndUpdate(args._id, args.input, {
         new: true,
       });
     } catch (err) {
-      logger.error("something went wrong",err )
-   
+      logger.error('something went wrong', err);
     }
   };
 
   //Delete Student by ID
   deleteStudent = async (parents: any, args: any) => {
     try {
-      logger.info("Delete Student Successfully")
-      return await studentCollection.findByIdAndRemove(args.id);
+      logger.info('Delete Student Successfully');
+      return await studentCollection.findByIdAndRemove(args._id);
     } catch (err) {
-      logger.error("something went wrong",err )
+      logger.error('something went wrong', err);
     }
   };
 }

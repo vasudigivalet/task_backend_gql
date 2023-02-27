@@ -38,18 +38,18 @@ const executeMain = async () => {
   const staticpath = path.join(__dirname, './uploads');
   app.use(express.static(staticpath));
   app.use(
-    '/',
-    cors<cors.CorsRequest>(),
-    bodyParser.json(),
-
-    expressMiddleware(server, {
-      context: async ({ req }) => ({ token: req.headers.token }),
-    }),
-  );
-  app.use(
     bodyParser.urlencoded({
       limit: '50mb',
       extended: true,
+    }),
+  );
+  app.options('/', cors());
+  app.use(
+    '/',
+    cors<cors.CorsRequest>(),
+    bodyParser.json(),
+    expressMiddleware(server, {
+      context: async ({ req }) => ({ token: req.headers.token }),
     }),
   );
   await new Promise<void>((resolve) => httpServer.listen({ port }, resolve));

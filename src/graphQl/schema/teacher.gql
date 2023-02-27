@@ -3,7 +3,7 @@ scalar DateTime
 type teacherDetails {
   _id: ID!
   name: String!
-  classId: [String!]!
+  allotClass: [String!]!
   gender: Gender!
   email: String!
   dateOfbirth: DateTime!
@@ -17,7 +17,7 @@ type teacherDetails {
 #create teachers Input
 input CreateTeacherInput {
   name: String!
-  classId: [String!]!
+  allotClass: [String!]!
   gender: Gender = MALE
   email: String!
   dateOfbirth: DateTime!

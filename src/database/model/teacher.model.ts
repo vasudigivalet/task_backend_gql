@@ -4,7 +4,7 @@ import { ObjectId } from 'mongodb';
 interface teacherDoc {
   id: ObjectId;
   name: string;
-  classId: [ObjectId];
+  allotClass: [ObjectId];
   gender: string;
   email: string;
   dateOfbirth: Date;
@@ -19,7 +19,7 @@ const teacherSchema = new mongoose.Schema<teacherDoc>(
       type: String,
       required: true,
     },
-    classId: [ObjectId],
+    allotClass: [ObjectId],
     gender: {
       type: String,
       required: true,

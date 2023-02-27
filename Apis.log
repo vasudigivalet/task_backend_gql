@@ -1,45 +1,508 @@
-[2023-02-24T15:15:52.528] [INFO] default - Class Details displayed
-[2023-02-24T16:59:57.308] [INFO] default - A Class is created
-[2023-02-24T17:02:58.189] [INFO] default - A Class is created
-[2023-02-24T18:52:59.561] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:01.930] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:02.567] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:03.023] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:03.318] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:03.501] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:03.688] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:03.876] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:04.070] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:04.250] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:04.436] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:04.682] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:21.964] [INFO] default - Successfully Update data from class
-[2023-02-24T18:53:22.898] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:33.592] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:34.526] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:35.110] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:35.399] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:35.600] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:36.056] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:36.419] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:36.639] [INFO] default - Successfully Update data from class
-[2023-02-24T18:54:36.862] [INFO] default - Successfully Update data from class
-[2023-02-24T18:56:30.787] [INFO] default - Successfully Update data from class
-[2023-02-24T18:56:34.383] [INFO] default - Successfully Update data from class
-[2023-02-24T18:56:35.143] [INFO] default - Successfully Update data from class
-[2023-02-24T18:56:40.805] [INFO] default - Successfully Update data from class
-[2023-02-24T18:56:41.757] [INFO] default - Successfully Update data from class
-[2023-02-24T18:57:19.697] [INFO] default - Successfully Update data from class
-[2023-02-24T18:57:20.577] [INFO] default - Successfully Update data from class
-[2023-02-24T18:57:21.900] [INFO] default - Successfully Update data from class
-[2023-02-24T18:57:31.129] [INFO] default - Successfully Update data from class
-[2023-02-24T18:57:31.813] [INFO] default - Successfully Update data from class
-[2023-02-24T18:58:31.595] [INFO] default - Successfully Update data from class
-[2023-02-24T18:58:32.554] [INFO] default - Successfully Update data from class
-[2023-02-24T18:59:57.333] [INFO] default - Successfully Update data from class
-[2023-02-24T18:59:58.270] [INFO] default - Successfully Update data from class
-[2023-02-24T19:00:57.127] [INFO] default - Successfully Update data from class
-[2023-02-24T19:01:26.549] [INFO] default - Successfully Update data from class
-[2023-02-24T19:02:25.264] [INFO] default - Successfully Update data from class
-[2023-02-24T19:02:26.394] [INFO] default - Successfully Update data from class
-[2023-02-24T19:07:40.107] [INFO] default - Successfully Deleted data from class
+[2023-02-27T16:16:25.696] [INFO] default - Class Details displayed
+[2023-02-27T16:16:29.950] [INFO] default - Successfully Deleted data from class 63f8a06aaa574cf3820be797
+[2023-02-27T16:17:53.622] [INFO] default - Class Details displayed
+[2023-02-27T16:18:02.688] [INFO] default - Class Details displayed
+[2023-02-27T16:18:05.688] [INFO] default - Successfully Deleted data from class 63f8a06aaa574cf3820be797
+[2023-02-27T16:18:33.308] [INFO] default - Class Details displayed
+[2023-02-27T16:19:40.517] [INFO] default - Display Teacher Details
+[2023-02-27T16:19:43.220] [INFO] default - display Student Details
+[2023-02-27T16:19:50.366] [INFO] default - Class Details displayed
+[2023-02-27T16:20:45.916] [INFO] default - Class Details displayed
+[2023-02-27T16:21:08.648] [INFO] default - Class Details displayed
+[2023-02-27T16:21:27.166] [INFO] default - Class Details displayed
+[2023-02-27T16:25:58.643] [INFO] default - Class Details displayed
+[2023-02-27T16:26:06.859] [INFO] default - Class Details displayed
+[2023-02-27T16:26:12.910] [INFO] default - Class Details displayed
+[2023-02-27T16:26:18.200] [INFO] default - Class Details displayed
+[2023-02-27T16:27:58.034] [INFO] default - Class Details displayed
+[2023-02-27T16:28:00.792] [INFO] default - Class Details displayed
+[2023-02-27T16:29:09.168] [INFO] default - Class Details displayed
+[2023-02-27T16:29:31.508] [INFO] default - Class Details displayed
+[2023-02-27T16:30:20.142] [INFO] default - Class Details displayed
+[2023-02-27T16:30:22.310] [INFO] default - Class Details displayed
+[2023-02-27T16:30:31.071] [INFO] default - Class Details displayed
+[2023-02-27T16:30:37.605] [INFO] default - Class Details displayed
+[2023-02-27T16:30:40.712] [INFO] default - Display Teacher Details
+[2023-02-27T16:30:44.172] [INFO] default - display Student Details
+[2023-02-27T16:33:29.680] [INFO] default - Class Details displayed
+[2023-02-27T16:34:16.077] [INFO] default - Class Details displayed
+[2023-02-27T16:34:32.040] [INFO] default - Class Details displayed
+[2023-02-27T16:34:36.360] [INFO] default - Class Details displayed
+[2023-02-27T16:34:43.598] [INFO] default - Class Details displayed
+[2023-02-27T16:34:46.299] [INFO] default - Class Details displayed
+[2023-02-27T16:35:12.311] [INFO] default - Class Details displayed
+[2023-02-27T16:35:22.015] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'A' }
+[2023-02-27T16:35:29.709] [INFO] default - Class Details displayed
+[2023-02-27T16:36:24.629] [INFO] default - Class Details displayed
+[2023-02-27T16:36:28.462] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'A' }
+[2023-02-27T16:36:33.294] [INFO] default - Class Details displayed
+[2023-02-27T16:37:07.420] [INFO] default - Class Details displayed
+[2023-02-27T16:37:59.256] [INFO] default - Class Details displayed
+[2023-02-27T16:38:49.527] [INFO] default - Class Details displayed
+[2023-02-27T16:38:54.894] [INFO] default - Successfully Deleted data from class 63fc8e72b9b820ece0b742e9
+[2023-02-27T16:39:00.405] [INFO] default - Class Details displayed
+[2023-02-27T16:42:24.587] [INFO] default - Class Details displayed
+[2023-02-27T16:42:32.383] [INFO] default - Class Details displayed
+[2023-02-27T16:43:08.073] [INFO] default - Class Details displayed
+[2023-02-27T16:43:27.943] [INFO] default - Class Details displayed
+[2023-02-27T16:43:31.307] [INFO] default - Class Details displayed
+[2023-02-27T16:43:42.840] [INFO] default - Class Details displayed
+[2023-02-27T16:43:59.254] [INFO] default - Class Details displayed
+[2023-02-27T16:44:08.686] [INFO] default - Class Details displayed
+[2023-02-27T16:44:20.306] [INFO] default - Class Details displayed
+[2023-02-27T16:44:34.264] [INFO] default - Class Details displayed
+[2023-02-27T16:45:01.273] [INFO] default - Class Details displayed
+[2023-02-27T16:45:06.259] [INFO] default - Class Details displayed
+[2023-02-27T16:45:08.201] [INFO] default - Class Details displayed
+[2023-02-27T16:45:37.302] [INFO] default - Class Details displayed
+[2023-02-27T16:49:19.200] [INFO] default - Class Details displayed
+[2023-02-27T16:49:26.059] [INFO] default - Successfully Update data from class 63fc8eb4b9b820ece0b742ed
+[2023-02-27T16:49:29.489] [INFO] default - Class Details displayed
+[2023-02-27T16:50:16.091] [INFO] default - Class Details displayed
+[2023-02-27T16:50:36.930] [INFO] default - Class Details displayed
+[2023-02-27T16:50:49.858] [INFO] default - Class Details displayed
+[2023-02-27T16:50:54.037] [INFO] default - Class Details displayed
+[2023-02-27T16:51:00.339] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'A' }
+[2023-02-27T16:51:16.425] [INFO] default - Class Details displayed
+[2023-02-27T16:51:18.320] [INFO] default - Class Details displayed
+[2023-02-27T16:51:22.859] [INFO] default - Class Details displayed
+[2023-02-27T16:51:40.369] [INFO] default - Class Details displayed
+[2023-02-27T16:51:47.360] [INFO] default - Successfully Deleted data from class 63fc8eb4b9b820ece0b742ed
+[2023-02-27T16:51:57.256] [INFO] default - Class Details displayed
+[2023-02-27T16:52:06.101] [INFO] default - Successfully Update data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T16:52:09.062] [INFO] default - Class Details displayed
+[2023-02-27T16:53:07.100] [INFO] default - Class Details displayed
+[2023-02-27T16:53:23.615] [INFO] default - Class Details displayed
+[2023-02-27T16:53:40.546] [INFO] default - Successfully Update data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T16:53:45.376] [INFO] default - Class Details displayed
+[2023-02-27T16:53:51.577] [INFO] default - Successfully Update data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T16:53:56.190] [INFO] default - A Class is created { name: 'secondary', standard: '10th', section: 'g' }
+[2023-02-27T16:54:00.589] [INFO] default - Class Details displayed
+[2023-02-27T16:59:31.287] [INFO] default - Class Details displayed
+[2023-02-27T17:00:11.279] [INFO] default - Class Details displayed
+[2023-02-27T17:05:59.141] [INFO] default - Class Details displayed
+[2023-02-27T17:06:02.860] [INFO] default - Class Details displayed
+[2023-02-27T17:06:04.205] [INFO] default - Class Details displayed
+[2023-02-27T17:06:23.043] [INFO] default - Class Details displayed
+[2023-02-27T17:06:29.460] [INFO] default - A Class is created { name: 'Primary', standard: '6th', section: 'A' }
+[2023-02-27T17:06:34.104] [INFO] default - Class Details displayed
+[2023-02-27T17:07:11.577] [INFO] default - Class Details displayed
+[2023-02-27T17:07:15.349] [INFO] default - Successfully Update data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T17:07:31.555] [INFO] default - Class Details displayed
+[2023-02-27T17:07:34.475] [INFO] default - Class Details displayed
+[2023-02-27T17:08:02.027] [INFO] default - Class Details displayed
+[2023-02-27T17:08:18.826] [INFO] default - Class Details displayed
+[2023-02-27T17:08:24.619] [INFO] default - Class Details displayed
+[2023-02-27T17:08:27.906] [INFO] default - Class Details displayed
+[2023-02-27T17:08:33.362] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'A' }
+[2023-02-27T17:08:45.088] [INFO] default - Class Details displayed
+[2023-02-27T17:08:54.720] [INFO] default - A Class is created { name: 'Primary', standard: '6th', section: 'A' }
+[2023-02-27T17:09:08.310] [INFO] default - Class Details displayed
+[2023-02-27T17:09:15.941] [INFO] default - Class Details displayed
+[2023-02-27T17:09:25.081] [INFO] default - Class Details displayed
+[2023-02-27T17:09:38.031] [INFO] default - Class Details displayed
+[2023-02-27T17:09:45.731] [INFO] default - Class Details displayed
+[2023-02-27T17:09:51.762] [INFO] default - A Class is created { name: 'Senior Secondary', standard: '10th', section: 'B' }
+[2023-02-27T17:10:26.745] [INFO] default - Class Details displayed
+[2023-02-27T17:10:29.044] [INFO] default - Class Details displayed
+[2023-02-27T17:10:32.502] [INFO] default - Successfully Update data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T17:10:41.118] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'B' }
+[2023-02-27T17:10:46.367] [INFO] default - Class Details displayed
+[2023-02-27T17:11:31.165] [INFO] default - Class Details displayed
+[2023-02-27T17:11:41.269] [INFO] default - A Class is created { name: 'secondary', standard: '6th', section: 'h' }
+[2023-02-27T17:11:48.034] [INFO] default - Class Details displayed
+[2023-02-27T17:11:58.778] [INFO] default - Class Details displayed
+[2023-02-27T17:12:12.699] [INFO] default - Class Details displayed
+[2023-02-27T17:12:22.527] [INFO] default - Class Details displayed
+[2023-02-27T17:13:06.729] [INFO] default - Successfully Deleted data from class 63fc96f5b9b820ece0b74340
+[2023-02-27T17:13:11.978] [INFO] default - Class Details displayed
+[2023-02-27T17:13:17.078] [INFO] default - Successfully Deleted data from class 63fc96b9b9b820ece0b7433c
+[2023-02-27T17:13:21.972] [INFO] default - Class Details displayed
+[2023-02-27T17:13:49.289] [INFO] default - A Class is created { name: 'Primary', standard: '10th', section: 'A' }
+[2023-02-27T17:15:37.255] [INFO] default - Class Details displayed
+[2023-02-27T17:15:53.931] [INFO] default - Class Details displayed
+[2023-02-27T17:15:57.801] [INFO] default - Successfully Deleted data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T17:16:03.316] [INFO] default - Successfully Deleted data from class 63fc921cb9b820ece0b7430a
+[2023-02-27T17:16:06.067] [INFO] default - Class Details displayed
+[2023-02-27T17:16:50.268] [INFO] default - Class Details displayed
+[2023-02-27T17:17:04.867] [INFO] default - Class Details displayed
+[2023-02-27T17:17:25.761] [INFO] default - Class Details displayed
+[2023-02-27T17:17:28.963] [INFO] default - Class Details displayed
+[2023-02-27T17:17:31.897] [INFO] default - Class Details displayed
+[2023-02-27T17:17:33.901] [INFO] default - Class Details displayed
+[2023-02-27T17:18:09.907] [INFO] default - Class Details displayed
+[2023-02-27T17:18:19.499] [INFO] default - Class Details displayed
+[2023-02-27T17:18:32.550] [INFO] default - Class Details displayed
+[2023-02-27T17:18:36.617] [INFO] default - Class Details displayed
+[2023-02-27T17:18:41.971] [INFO] default - Class Details displayed
+[2023-02-27T17:19:07.735] [INFO] default - Class Details displayed
+[2023-02-27T17:19:11.157] [INFO] default - display Student Details
+[2023-02-27T17:19:16.014] [INFO] default - display Student Details
+[2023-02-27T17:19:53.871] [INFO] default - display Student Details
+[2023-02-27T17:20:08.634] [INFO] default - display Student Details
+[2023-02-27T17:20:21.209] [INFO] default - display Student Details
+[2023-02-27T17:20:44.169] [INFO] default - display Student Details
+[2023-02-27T17:20:50.233] [INFO] default - display Student Details
+[2023-02-27T17:21:03.190] [INFO] default - display Student Details
+[2023-02-27T17:21:05.945] [INFO] default - display Student Details
+[2023-02-27T17:21:10.222] [INFO] default - display Student Details
+[2023-02-27T17:21:19.681] [INFO] default - display Student Details
+[2023-02-27T17:21:25.566] [INFO] default - display Student Details
+[2023-02-27T17:22:22.219] [INFO] default - display Student Details
+[2023-02-27T17:22:24.303] [INFO] default - display Student Details
+[2023-02-27T17:22:41.371] [INFO] default - display Student Details
+[2023-02-27T17:22:51.498] [INFO] default - display Student Details
+[2023-02-27T17:23:07.391] [INFO] default - display Student Details
+[2023-02-27T17:26:19.242] [INFO] default - display Student Details
+[2023-02-27T17:31:03.676] [INFO] default - display Student Details
+[2023-02-27T17:31:20.017] [INFO] default - Display Teacher Details
+[2023-02-27T17:31:23.792] [INFO] default - Class Details displayed
+[2023-02-27T17:31:53.559] [INFO] default - Class Details displayed
+[2023-02-27T17:31:53.570] [INFO] default - display Student Details
+[2023-02-27T17:33:08.624] [INFO] default - Class Details displayed
+[2023-02-27T17:33:08.638] [INFO] default - display Student Details
+[2023-02-27T17:34:58.459] [INFO] default - Class Details displayed
+[2023-02-27T17:34:58.472] [INFO] default - display Student Details
+[2023-02-27T17:37:37.847] [INFO] default - Class Details displayed
+[2023-02-27T17:37:37.983] [INFO] default - display Student Details
+[2023-02-27T17:37:43.123] [INFO] default - Class Details displayed
+[2023-02-27T17:37:43.171] [INFO] default - display Student Details
+[2023-02-27T17:39:14.514] [INFO] default - Class Details displayed
+[2023-02-27T17:39:14.522] [INFO] default - display Student Details
+[2023-02-27T17:39:30.597] [INFO] default - Class Details displayed
+[2023-02-27T17:39:30.705] [INFO] default - display Student Details
+[2023-02-27T17:39:36.274] [INFO] default - Class Details displayed
+[2023-02-27T17:39:36.288] [INFO] default - display Student Details
+[2023-02-27T17:39:47.353] [INFO] default - Class Details displayed
+[2023-02-27T17:39:47.367] [INFO] default - display Student Details
+[2023-02-27T17:40:25.587] [INFO] default - Class Details displayed
+[2023-02-27T17:40:25.651] [INFO] default - display Student Details
+[2023-02-27T17:41:36.411] [INFO] default - Class Details displayed
+[2023-02-27T17:41:36.502] [INFO] default - display Student Details
+[2023-02-27T17:41:42.315] [INFO] default - Class Details displayed
+[2023-02-27T17:41:42.332] [INFO] default - display Student Details
+[2023-02-27T17:42:46.891] [INFO] default - Class Details displayed
+[2023-02-27T17:42:46.967] [INFO] default - display Student Details
+[2023-02-27T17:42:50.888] [INFO] default - Class Details displayed
+[2023-02-27T17:42:50.929] [INFO] default - display Student Details
+[2023-02-27T17:43:53.148] [INFO] default - Class Details displayed
+[2023-02-27T17:43:53.158] [INFO] default - display Student Details
+[2023-02-27T17:59:21.902] [INFO] default - Class Details displayed
+[2023-02-27T17:59:25.089] [INFO] default - Display Teacher Details
+[2023-02-27T17:59:25.820] [INFO] default - display Student Details
+[2023-02-27T17:59:31.423] [INFO] default - Successfully Update data from class 63fc92ccb9b820ece0b74319
+[2023-02-27T18:00:35.977] [INFO] default - Class Details displayed
+[2023-02-27T18:00:35.985] [INFO] default - display Student Details
+[2023-02-27T18:00:49.165] [INFO] default - Class Details displayed
+[2023-02-27T18:00:49.184] [INFO] default - display Student Details
+[2023-02-27T18:00:53.475] [INFO] default - Class Details displayed
+[2023-02-27T18:00:53.493] [INFO] default - display Student Details
+[2023-02-27T18:01:18.836] [INFO] default - Created Student
+[2023-02-27T18:01:24.279] [INFO] default - Class Details displayed
+[2023-02-27T18:01:24.351] [INFO] default - display Student Details
+[2023-02-27T18:02:15.354] [INFO] default - Class Details displayed
+[2023-02-27T18:02:15.394] [INFO] default - display Student Details
+[2023-02-27T18:02:39.082] [INFO] default - Class Details displayed
+[2023-02-27T18:02:39.094] [INFO] default - display Student Details
+[2023-02-27T18:03:11.972] [INFO] default - Class Details displayed
+[2023-02-27T18:03:11.993] [INFO] default - display Student Details
+[2023-02-27T18:03:16.825] [INFO] default - Class Details displayed
+[2023-02-27T18:03:16.847] [INFO] default - display Student Details
+[2023-02-27T18:03:27.056] [INFO] default - Class Details displayed
+[2023-02-27T18:03:27.067] [INFO] default - display Student Details
+[2023-02-27T18:04:50.659] [INFO] default - Class Details displayed
+[2023-02-27T18:04:50.687] [INFO] default - display Student Details
+[2023-02-27T18:05:07.324] [INFO] default - Class Details displayed
+[2023-02-27T18:05:07.332] [INFO] default - display Student Details
+[2023-02-27T18:05:12.923] [INFO] default - Class Details displayed
+[2023-02-27T18:05:12.937] [INFO] default - display Student Details
+[2023-02-27T18:05:23.828] [INFO] default - Class Details displayed
+[2023-02-27T18:05:23.852] [INFO] default - display Student Details
+[2023-02-27T18:05:34.126] [INFO] default - Class Details displayed
+[2023-02-27T18:05:34.141] [INFO] default - display Student Details
+[2023-02-27T18:05:38.504] [INFO] default - Class Details displayed
+[2023-02-27T18:05:38.530] [INFO] default - display Student Details
+[2023-02-27T18:05:42.296] [INFO] default - Class Details displayed
+[2023-02-27T18:05:42.346] [INFO] default - display Student Details
+[2023-02-27T18:06:01.708] [INFO] default - Class Details displayed
+[2023-02-27T18:06:01.735] [INFO] default - display Student Details
+[2023-02-27T18:06:20.521] [INFO] default - Class Details displayed
+[2023-02-27T18:06:20.542] [INFO] default - display Student Details
+[2023-02-27T18:06:33.074] [INFO] default - Class Details displayed
+[2023-02-27T18:06:33.088] [INFO] default - display Student Details
+[2023-02-27T18:06:56.821] [INFO] default - Class Details displayed
+[2023-02-27T18:06:56.872] [INFO] default - display Student Details
+[2023-02-27T18:07:01.153] [INFO] default - Class Details displayed
+[2023-02-27T18:07:01.175] [INFO] default - display Student Details
+[2023-02-27T18:07:15.537] [INFO] default - Class Details displayed
+[2023-02-27T18:07:15.565] [INFO] default - display Student Details
+[2023-02-27T18:07:33.349] [INFO] default - Class Details displayed
+[2023-02-27T18:07:33.375] [INFO] default - display Student Details
+[2023-02-27T18:07:37.388] [INFO] default - Class Details displayed
+[2023-02-27T18:07:37.403] [INFO] default - display Student Details
+[2023-02-27T18:07:51.747] [INFO] default - Class Details displayed
+[2023-02-27T18:07:51.759] [INFO] default - display Student Details
+[2023-02-27T18:08:30.429] [INFO] default - Class Details displayed
+[2023-02-27T18:08:30.464] [INFO] default - display Student Details
+[2023-02-27T18:08:34.570] [INFO] default - Delete Student Successfully
+[2023-02-27T18:08:37.461] [INFO] default - Class Details displayed
+[2023-02-27T18:08:37.481] [INFO] default - display Student Details
+[2023-02-27T18:09:12.273] [INFO] default - Class Details displayed
+[2023-02-27T18:09:12.289] [INFO] default - display Student Details
+[2023-02-27T18:09:53.125] [INFO] default - Class Details displayed
+[2023-02-27T18:09:53.135] [INFO] default - display Student Details
+[2023-02-27T18:10:39.665] [INFO] default - Class Details displayed
+[2023-02-27T18:10:39.684] [INFO] default - display Student Details
+[2023-02-27T18:10:40.920] [INFO] default - Class Details displayed
+[2023-02-27T18:10:40.929] [INFO] default - display Student Details
+[2023-02-27T18:12:19.283] [INFO] default - Class Details displayed
+[2023-02-27T18:12:19.298] [INFO] default - display Student Details
+[2023-02-27T18:12:57.034] [INFO] default - Class Details displayed
+[2023-02-27T18:12:57.066] [INFO] default - display Student Details
+[2023-02-27T18:13:25.613] [INFO] default - Class Details displayed
+[2023-02-27T18:13:25.629] [INFO] default - display Student Details
+[2023-02-27T18:13:27.956] [INFO] default - Class Details displayed
+[2023-02-27T18:13:27.974] [INFO] default - display Student Details
+[2023-02-27T18:13:30.011] [INFO] default - Class Details displayed
+[2023-02-27T18:13:30.098] [INFO] default - display Student Details
+[2023-02-27T18:13:36.794] [INFO] default - Class Details displayed
+[2023-02-27T18:13:36.808] [INFO] default - display Student Details
+[2023-02-27T18:14:48.025] [INFO] default - Class Details displayed
+[2023-02-27T18:14:48.068] [INFO] default - display Student Details
+[2023-02-27T18:15:15.707] [INFO] default - Class Details displayed
+[2023-02-27T18:15:15.728] [INFO] default - display Student Details
+[2023-02-27T18:16:29.575] [INFO] default - Class Details displayed
+[2023-02-27T18:16:29.578] [INFO] default - display Student Details
+[2023-02-27T18:16:29.851] [INFO] default - Class Details displayed
+[2023-02-27T18:16:29.877] [INFO] default - display Student Details
+[2023-02-27T18:16:33.792] [INFO] default - Class Details displayed
+[2023-02-27T18:16:33.884] [INFO] default - display Student Details
+[2023-02-27T18:16:33.898] [INFO] default - Class Details displayed
+[2023-02-27T18:16:33.987] [INFO] default - display Student Details
+[2023-02-27T18:16:44.422] [INFO] default - Class Details displayed
+[2023-02-27T18:16:44.449] [INFO] default - display Student Details
+[2023-02-27T18:16:45.224] [INFO] default - Class Details displayed
+[2023-02-27T18:16:45.238] [INFO] default - display Student Details
+[2023-02-27T18:18:13.909] [INFO] default - Class Details displayed
+[2023-02-27T18:18:13.957] [INFO] default - display Student Details
+[2023-02-27T18:18:14.160] [INFO] default - Class Details displayed
+[2023-02-27T18:18:14.273] [INFO] default - display Student Details
+[2023-02-27T18:18:28.874] [INFO] default - Class Details displayed
+[2023-02-27T18:18:28.888] [INFO] default - display Student Details
+[2023-02-27T18:18:29.010] [INFO] default - Class Details displayed
+[2023-02-27T18:18:29.038] [INFO] default - display Student Details
+[2023-02-27T18:18:33.773] [INFO] default - Class Details displayed
+[2023-02-27T18:18:33.804] [INFO] default - display Student Details
+[2023-02-27T18:18:33.933] [INFO] default - Class Details displayed
+[2023-02-27T18:18:33.979] [INFO] default - display Student Details
+[2023-02-27T18:18:41.714] [INFO] default - Class Details displayed
+[2023-02-27T18:18:41.755] [INFO] default - display Student Details
+[2023-02-27T18:18:42.526] [INFO] default - Class Details displayed
+[2023-02-27T18:18:42.538] [INFO] default - display Student Details
+[2023-02-27T18:18:50.896] [INFO] default - Class Details displayed
+[2023-02-27T18:18:50.928] [INFO] default - display Student Details
+[2023-02-27T18:18:56.015] [INFO] default - Class Details displayed
+[2023-02-27T18:18:56.052] [INFO] default - display Student Details
+[2023-02-27T18:18:56.918] [INFO] default - Class Details displayed
+[2023-02-27T18:18:56.964] [INFO] default - display Student Details
+[2023-02-27T18:18:58.955] [INFO] default - Class Details displayed
+[2023-02-27T18:18:59.000] [INFO] default - display Student Details
+[2023-02-27T18:19:04.951] [INFO] default - Class Details displayed
+[2023-02-27T18:19:04.954] [INFO] default - display Student Details
+[2023-02-27T18:19:05.007] [INFO] default - Class Details displayed
+[2023-02-27T18:19:05.013] [INFO] default - display Student Details
+[2023-02-27T18:19:24.986] [INFO] default - Display Teacher Details
+[2023-02-27T18:20:27.666] [INFO] default - Class Details displayed
+[2023-02-27T18:20:27.685] [INFO] default - display Student Details
+[2023-02-27T18:20:29.577] [INFO] default - Class Details displayed
+[2023-02-27T18:20:29.603] [INFO] default - display Student Details
+[2023-02-27T18:23:05.539] [INFO] default - Class Details displayed
+[2023-02-27T18:23:05.561] [INFO] default - display Student Details
+[2023-02-27T18:25:03.313] [INFO] default - Class Details displayed
+[2023-02-27T18:25:03.349] [INFO] default - display Student Details
+[2023-02-27T18:26:16.505] [INFO] default - Class Details displayed
+[2023-02-27T18:26:16.511] [INFO] default - display Student Details
+[2023-02-27T18:37:59.855] [INFO] default - Class Details displayed
+[2023-02-27T18:37:59.882] [INFO] default - display Student Details
+[2023-02-27T18:40:02.388] [INFO] default - Class Details displayed
+[2023-02-27T18:40:02.411] [INFO] default - display Student Details
+[2023-02-27T18:40:05.610] [INFO] default - Class Details displayed
+[2023-02-27T18:40:05.635] [INFO] default - display Student Details
+[2023-02-27T18:40:09.226] [INFO] default - Class Details displayed
+[2023-02-27T18:40:09.231] [INFO] default - display Student Details
+[2023-02-27T18:40:24.713] [INFO] default - Created Student
+[2023-02-27T18:40:27.805] [INFO] default - Class Details displayed
+[2023-02-27T18:40:27.817] [INFO] default - display Student Details
+[2023-02-27T18:41:45.536] [INFO] default - Class Details displayed
+[2023-02-27T18:41:45.554] [INFO] default - display Student Details
+[2023-02-27T18:43:35.433] [INFO] default - Class Details displayed
+[2023-02-27T18:43:35.450] [INFO] default - display Student Details
+[2023-02-27T18:44:07.913] [INFO] default - Class Details displayed
+[2023-02-27T18:44:07.927] [INFO] default - display Student Details
+[2023-02-27T18:44:36.855] [INFO] default - Class Details displayed
+[2023-02-27T18:44:36.892] [INFO] default - display Student Details
+[2023-02-27T18:44:40.896] [INFO] default - Class Details displayed
+[2023-02-27T18:44:40.913] [INFO] default - display Student Details
+[2023-02-27T18:45:44.920] [INFO] default - Class Details displayed
+[2023-02-27T18:45:44.931] [INFO] default - display Student Details
+[2023-02-27T18:45:47.559] [INFO] default - Class Details displayed
+[2023-02-27T18:45:47.577] [INFO] default - display Student Details
+[2023-02-27T18:46:05.744] [INFO] default - Class Details displayed
+[2023-02-27T18:46:05.748] [INFO] default - display Student Details
+[2023-02-27T18:46:21.397] [INFO] default - Class Details displayed
+[2023-02-27T18:46:21.430] [INFO] default - display Student Details
+[2023-02-27T18:46:56.208] [INFO] default - Class Details displayed
+[2023-02-27T18:46:56.232] [INFO] default - display Student Details
+[2023-02-27T18:47:16.296] [INFO] default - Class Details displayed
+[2023-02-27T18:47:16.325] [INFO] default - display Student Details
+[2023-02-27T18:47:21.528] [INFO] default - Class Details displayed
+[2023-02-27T18:47:21.542] [INFO] default - display Student Details
+[2023-02-27T18:47:38.919] [INFO] default - Class Details displayed
+[2023-02-27T18:47:38.952] [INFO] default - display Student Details
+[2023-02-27T18:47:47.703] [INFO] default - Class Details displayed
+[2023-02-27T18:47:47.733] [INFO] default - display Student Details
+[2023-02-27T18:47:55.678] [INFO] default - Class Details displayed
+[2023-02-27T18:47:55.702] [INFO] default - display Student Details
+[2023-02-27T18:47:57.756] [INFO] default - Class Details displayed
+[2023-02-27T18:47:57.804] [INFO] default - display Student Details
+[2023-02-27T18:47:59.971] [INFO] default - Class Details displayed
+[2023-02-27T18:47:59.975] [INFO] default - display Student Details
+[2023-02-27T18:48:06.433] [INFO] default - Class Details displayed
+[2023-02-27T18:48:06.451] [INFO] default - display Student Details
+[2023-02-27T18:48:17.287] [INFO] default - Class Details displayed
+[2023-02-27T18:48:17.296] [INFO] default - display Student Details
+[2023-02-27T18:48:21.838] [INFO] default - Class Details displayed
+[2023-02-27T18:48:21.859] [INFO] default - display Student Details
+[2023-02-27T18:53:03.311] [INFO] default - Class Details displayed
+[2023-02-27T18:53:03.323] [INFO] default - display Student Details
+[2023-02-27T18:53:17.837] [INFO] default - Class Details displayed
+[2023-02-27T18:53:17.858] [INFO] default - display Student Details
+[2023-02-27T18:53:22.047] [INFO] default - Class Details displayed
+[2023-02-27T18:53:22.065] [INFO] default - display Student Details
+[2023-02-27T18:59:47.497] [INFO] default - Class Details displayed
+[2023-02-27T18:59:47.528] [INFO] default - display Student Details
+[2023-02-27T19:01:48.563] [INFO] default - Class Details displayed
+[2023-02-27T19:01:48.599] [INFO] default - display Student Details
+[2023-02-27T19:01:53.778] [INFO] default - Class Details displayed
+[2023-02-27T19:01:53.789] [INFO] default - display Student Details
+[2023-02-27T19:02:27.821] [INFO] default - Class Details displayed
+[2023-02-27T19:02:27.828] [INFO] default - display Student Details
+[2023-02-27T19:02:33.237] [INFO] default - Class Details displayed
+[2023-02-27T19:02:33.266] [INFO] default - display Student Details
+[2023-02-27T19:02:39.288] [INFO] default - Class Details displayed
+[2023-02-27T19:02:39.302] [INFO] default - display Student Details
+[2023-02-27T19:02:49.762] [INFO] default - Class Details displayed
+[2023-02-27T19:02:49.766] [INFO] default - display Student Details
+[2023-02-27T19:03:11.501] [INFO] default - Class Details displayed
+[2023-02-27T19:03:11.536] [INFO] default - display Student Details
+[2023-02-27T19:04:06.727] [INFO] default - Class Details displayed
+[2023-02-27T19:04:06.741] [INFO] default - display Student Details
+[2023-02-27T19:04:15.488] [INFO] default - Update Student Successfully
+[2023-02-27T19:04:39.717] [INFO] default - Class Details displayed
+[2023-02-27T19:04:39.742] [INFO] default - display Student Details
+[2023-02-27T19:05:05.636] [INFO] default - Class Details displayed
+[2023-02-27T19:05:05.893] [INFO] default - display Student Details
+[2023-02-27T19:05:16.910] [INFO] default - Display Teacher Details
+[2023-02-27T19:05:23.089] [INFO] default - Update Student Successfully
+[2023-02-27T19:05:28.040] [INFO] default - Delete Student Successfully
+[2023-02-27T19:05:33.074] [INFO] default - Class Details displayed
+[2023-02-27T19:05:33.078] [INFO] default - display Student Details
+[2023-02-27T19:05:47.810] [INFO] default - Created Student
+[2023-02-27T19:05:53.987] [INFO] default - Class Details displayed
+[2023-02-27T19:05:53.998] [INFO] default - display Student Details
+[2023-02-27T19:06:15.758] [INFO] default - Class Details displayed
+[2023-02-27T19:06:15.763] [INFO] default - display Student Details
+[2023-02-27T19:06:19.340] [INFO] default - Class Details displayed
+[2023-02-27T19:06:19.348] [INFO] default - display Student Details
+[2023-02-27T19:06:30.584] [INFO] default - Class Details displayed
+[2023-02-27T19:06:30.589] [INFO] default - display Student Details
+[2023-02-27T19:06:35.323] [INFO] default - Class Details displayed
+[2023-02-27T19:06:35.329] [INFO] default - display Student Details
+[2023-02-27T19:06:36.845] [INFO] default - Class Details displayed
+[2023-02-27T19:06:36.849] [INFO] default - display Student Details
+[2023-02-27T19:06:40.067] [INFO] default - Class Details displayed
+[2023-02-27T19:06:40.084] [INFO] default - display Student Details
+[2023-02-27T19:10:29.738] [INFO] default - Class Details displayed
+[2023-02-27T19:10:29.749] [INFO] default - display Student Details
+[2023-02-27T19:10:40.917] [INFO] default - Class Details displayed
+[2023-02-27T19:10:40.925] [INFO] default - display Student Details
+[2023-02-27T19:10:50.112] [INFO] default - Class Details displayed
+[2023-02-27T19:10:50.121] [INFO] default - display Student Details
+[2023-02-27T19:11:02.334] [INFO] default - Class Details displayed
+[2023-02-27T19:11:02.371] [INFO] default - display Student Details
+[2023-02-27T19:11:19.214] [INFO] default - Class Details displayed
+[2023-02-27T19:11:19.480] [INFO] default - display Student Details
+[2023-02-27T19:11:24.243] [INFO] default - Class Details displayed
+[2023-02-27T19:11:24.254] [INFO] default - display Student Details
+[2023-02-27T19:11:43.805] [INFO] default - Class Details displayed
+[2023-02-27T19:11:43.813] [INFO] default - display Student Details
+[2023-02-27T19:11:48.291] [INFO] default - Class Details displayed
+[2023-02-27T19:11:48.300] [INFO] default - display Student Details
+[2023-02-27T19:11:50.705] [INFO] default - Class Details displayed
+[2023-02-27T19:11:50.709] [INFO] default - display Student Details
+[2023-02-27T19:12:14.055] [INFO] default - Class Details displayed
+[2023-02-27T19:12:14.097] [INFO] default - display Student Details
+[2023-02-27T19:12:17.276] [INFO] default - Class Details displayed
+[2023-02-27T19:12:17.315] [INFO] default - display Student Details
+[2023-02-27T19:12:24.792] [INFO] default - Class Details displayed
+[2023-02-27T19:12:25.437] [INFO] default - display Student Details
+[2023-02-27T19:12:27.551] [INFO] default - Class Details displayed
+[2023-02-27T19:12:27.571] [INFO] default - display Student Details
+[2023-02-27T19:12:32.460] [INFO] default - Class Details displayed
+[2023-02-27T19:12:32.473] [INFO] default - display Student Details
+[2023-02-27T19:12:33.539] [INFO] default - Class Details displayed
+[2023-02-27T19:12:33.561] [INFO] default - display Student Details
+[2023-02-27T19:12:39.010] [INFO] default - Class Details displayed
+[2023-02-27T19:12:39.013] [INFO] default - display Student Details
+[2023-02-27T19:12:43.384] [INFO] default - Class Details displayed
+[2023-02-27T19:12:43.391] [INFO] default - display Student Details
+[2023-02-27T19:12:48.314] [INFO] default - Class Details displayed
+[2023-02-27T19:12:48.318] [INFO] default - display Student Details
+[2023-02-27T19:13:11.679] [INFO] default - Class Details displayed
+[2023-02-27T19:13:11.687] [INFO] default - display Student Details
+[2023-02-27T19:13:29.714] [INFO] default - Display Teacher Details
+[2023-02-27T19:31:17.889] [INFO] default - Display Teacher Details
+[2023-02-27T19:31:25.949] [INFO] default - Display Teacher Details
+[2023-02-27T19:31:57.929] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:05.620] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:09.834] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:13.693] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:28.489] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:42.634] [INFO] default - Display Teacher Details
+[2023-02-27T19:32:58.908] [INFO] default - Display Teacher Details
+[2023-02-27T19:33:09.361] [INFO] default - Display Teacher Details
+[2023-02-27T19:33:35.824] [INFO] default - Display Teacher Details
+[2023-02-27T19:34:49.438] [INFO] default - Display Teacher Details
+[2023-02-27T19:35:02.415] [INFO] default - Display Teacher Details
+[2023-02-27T19:35:34.583] [INFO] default - Class Details displayed
+[2023-02-27T19:35:34.618] [INFO] default - Display Teacher Details
+[2023-02-27T19:36:06.383] [INFO] default - Display Teacher Details
+[2023-02-27T19:36:07.345] [INFO] default - Display Teacher Details
+[2023-02-27T19:37:17.221] [INFO] default - Class Details displayed
+[2023-02-27T19:37:17.235] [INFO] default - Display Teacher Details
+[2023-02-27T19:37:44.575] [INFO] default - display Student Details
+[2023-02-27T19:37:45.379] [INFO] default - Display Teacher Details
+[2023-02-27T19:40:04.714] [INFO] default - Class Details displayed
+[2023-02-27T19:40:04.734] [INFO] default - Display Teacher Details
+[2023-02-27T19:42:09.598] [INFO] default - Class Details displayed
+[2023-02-27T19:42:09.625] [INFO] default - Display Teacher Details
+[2023-02-27T19:42:17.075] [INFO] default - Class Details displayed
+[2023-02-27T19:42:17.096] [INFO] default - Display Teacher Details
+[2023-02-27T19:42:24.607] [INFO] default - Class Details displayed
+[2023-02-27T19:42:24.617] [INFO] default - Display Teacher Details
+[2023-02-27T19:44:01.243] [INFO] default - Class Details displayed
+[2023-02-27T19:44:01.267] [INFO] default - Display Teacher Details
+[2023-02-27T19:44:06.754] [INFO] default - Class Details displayed
+[2023-02-27T19:44:06.780] [INFO] default - Display Teacher Details
+[2023-02-27T19:46:11.904] [INFO] default - Class Details displayed
+[2023-02-27T19:46:11.925] [INFO] default - Display Teacher Details
+[2023-02-27T19:46:33.386] [INFO] default - Create Teacher rytruyt
+[2023-02-27T19:46:33.553] [INFO] default - Display Teacher Details
+[2023-02-27T19:46:37.584] [INFO] default - Class Details displayed
+[2023-02-27T19:46:37.600] [INFO] default - Display Teacher Details
+[2023-02-27T19:47:01.093] [INFO] default - Class Details displayed
+[2023-02-27T19:47:01.107] [INFO] default - Display Teacher Details
+[2023-02-27T19:47:13.463] [INFO] default - Class Details displayed
+[2023-02-27T19:47:13.472] [INFO] default - Display Teacher Details
+[2023-02-27T19:48:22.964] [INFO] default - Class Details displayed
+[2023-02-27T19:48:22.976] [INFO] default - Display Teacher Details
