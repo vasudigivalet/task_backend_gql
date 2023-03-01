@@ -1,7 +1,7 @@
-import { IResolvers } from '@graphql-tools/utils';
-import { createWriteStream } from 'fs';
-import { join, parse } from 'path';
-import { logger } from '../../utils/logger';
+import { IResolvers } from "@graphql-tools/utils";
+import { createWriteStream } from "fs";
+import { join, parse } from "path";
+import { logger } from "../../utils/logger";
 
 const { finished } = require('stream/promises');
 const GraphQLUpload = require('graphql-upload');
@@ -15,36 +15,31 @@ export const resolvers: IResolvers = {
     //Image Query
     info: () => 'Hello I am Image Resolver Methods',
   },
-
+  
+  
+  /**Mutation of Image */
   Mutation: {
     profileUploader: async (parent, { file }) => {
-      const { createReadStream, filename } = await file.promise;
+      try {
+        logger.info('Profile Uploader Called');
+        const { createReadStream, filename } = await file.promise;
 
-      const stream = createReadStream();
+        const stream = createReadStream();
 
-      let { ext, name } = parse(filename);
-      name = name.replace(/([^a-z0-9]+)/gi, '-').replace(' ', '_');
-      let serverFile = join(__dirname, `../../uploads/${Date.now()}${ext}`);
-      let writeStream = await createWriteStream(serverFile);
-      await stream.pipe(writeStream);
-      serverFile = `${serverFile.split('uploads/')[1]}`;
-      fileData = serverFile;
-      logger.info('Successfully File Upload');
-      await finished(writeStream);
-      // return `${BASE_URL}uploads/${fileData}`;
-      return fileData;
-    },
-  },
-
-  studentDetails: {
-    profilePhoto: () => {
-      profilePhoto: fileData;
-    },
-  },
-
-  teacherDetails: {
-    profilePhoto: () => {
-      return fileData;
+        let { ext, name } = parse(filename);
+        name = name.replace(/([^a-z0-9]+)/gi, '-').replace(' ', '_');
+        let serverFile = join(__dirname, `../../uploads/${Date.now()}${ext}`);
+        let writeStream = await createWriteStream(serverFile);
+        await stream.pipe(writeStream);
+        serverFile = `${serverFile.split('uploads/')[1]}`;
+        fileData = serverFile;
+        logger.info('Successfully File Upload');
+        await finished(writeStream);
+        // return `${BASE_URL}uploads/${fileData}`;
+        return fileData;
+      } catch (err) {
+        logger.error('Error While Encountered while Uploading Image', err);
+      }
     },
   },
 };

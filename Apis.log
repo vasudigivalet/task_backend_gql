@@ -61,3 +61,984 @@
 [2023-02-28T19:52:22.179] [INFO] default - display Student Details
 [2023-02-28T19:52:41.413] [INFO] default - Class Details displayed
 [2023-02-28T19:52:41.418] [INFO] default - display Student Details
+[2023-02-28T20:05:28.055] [INFO] default - Class Details displayed
+[2023-02-28T20:05:34.421] [INFO] default - Display Teacher Details
+[2023-03-01T10:15:07.418] [INFO] default - Class Details displayed
+[2023-03-01T10:15:07.451] [INFO] default - display Student Details
+[2023-03-01T10:15:49.449] [INFO] default - Class Details displayed
+[2023-03-01T10:15:49.462] [INFO] default - display Student Details
+[2023-03-01T10:16:42.231] [INFO] default - Class Details displayed
+[2023-03-01T10:16:42.236] [INFO] default - display Student Details
+[2023-03-01T10:16:44.476] [INFO] default - Class Details displayed
+[2023-03-01T10:16:44.490] [INFO] default - display Student Details
+[2023-03-01T10:23:22.860] [INFO] default - Class Details displayed
+[2023-03-01T10:23:22.868] [INFO] default - display Student Details
+[2023-03-01T10:25:58.791] [INFO] default - Class Details displayed
+[2023-03-01T10:25:58.846] [INFO] default - display Student Details
+[2023-03-01T10:26:07.446] [ERROR] default - { file: {} }
+[2023-03-01T10:26:09.677] [INFO] default - Class Details displayed
+[2023-03-01T10:26:09.720] [INFO] default - display Student Details
+[2023-03-01T10:26:27.549] [INFO] default - Class Details displayed
+[2023-03-01T10:26:27.627] [INFO] default - display Student Details
+[2023-03-01T10:26:29.874] [INFO] default - Class Details displayed
+[2023-03-01T10:26:29.889] [INFO] default - display Student Details
+[2023-03-01T10:26:31.392] [INFO] default - Class Details displayed
+[2023-03-01T10:26:31.477] [INFO] default - display Student Details
+[2023-03-01T10:26:34.768] [INFO] default - Class Details displayed
+[2023-03-01T10:26:34.786] [INFO] default - display Student Details
+[2023-03-01T10:26:35.695] [INFO] default - Class Details displayed
+[2023-03-01T10:26:35.793] [INFO] default - display Student Details
+[2023-03-01T10:26:40.372] [ERROR] default - {}
+[2023-03-01T10:27:01.842] [INFO] default - Class Details displayed
+[2023-03-01T10:27:01.847] [INFO] default - display Student Details
+[2023-03-01T10:27:03.651] [INFO] default - Class Details displayed
+[2023-03-01T10:27:03.667] [INFO] default - display Student Details
+[2023-03-01T10:27:03.728] [INFO] default - Class Details displayed
+[2023-03-01T10:27:03.763] [INFO] default - display Student Details
+[2023-03-01T10:27:09.955] [ERROR] default - {}
+[2023-03-01T10:27:34.303] [INFO] default - Class Details displayed
+[2023-03-01T10:27:34.346] [INFO] default - display Student Details
+[2023-03-01T10:27:34.603] [INFO] default - Class Details displayed
+[2023-03-01T10:27:34.624] [INFO] default - display Student Details
+[2023-03-01T10:27:41.801] [ERROR] default - {}
+[2023-03-01T10:27:58.776] [INFO] default - Class Details displayed
+[2023-03-01T10:27:58.788] [INFO] default - display Student Details
+[2023-03-01T10:27:58.985] [INFO] default - Class Details displayed
+[2023-03-01T10:27:59.069] [INFO] default - display Student Details
+[2023-03-01T10:28:02.633] [INFO] default - Class Details displayed
+[2023-03-01T10:28:02.783] [INFO] default - display Student Details
+[2023-03-01T10:28:02.789] [INFO] default - Class Details displayed
+[2023-03-01T10:28:02.810] [INFO] default - display Student Details
+[2023-03-01T10:28:53.318] [ERROR] default - {}
+[2023-03-01T10:29:20.460] [INFO] default - Class Details displayed
+[2023-03-01T10:29:20.542] [INFO] default - display Student Details
+[2023-03-01T10:29:21.217] [INFO] default - Class Details displayed
+[2023-03-01T10:29:21.230] [INFO] default - display Student Details
+[2023-03-01T10:29:30.709] [ERROR] default - {}
+[2023-03-01T10:29:44.702] [INFO] default - Class Details displayed
+[2023-03-01T10:29:44.718] [INFO] default - display Student Details
+[2023-03-01T10:29:45.113] [INFO] default - Class Details displayed
+[2023-03-01T10:29:45.195] [INFO] default - display Student Details
+[2023-03-01T10:32:15.379] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T10:32:15.381] [INFO] default - Successfully File Upload
+[2023-03-01T10:35:26.297] [INFO] default - Class Details displayed
+[2023-03-01T10:35:26.302] [INFO] default - display Student Details
+[2023-03-01T10:35:41.398] [ERROR] default - {}
+[2023-03-01T10:36:24.150] [INFO] default - Class Details displayed
+[2023-03-01T10:36:24.167] [INFO] default - display Student Details
+[2023-03-01T10:36:37.414] [ERROR] default - {}
+[2023-03-01T10:37:25.417] [INFO] default - Class Details displayed
+[2023-03-01T10:37:25.534] [INFO] default - display Student Details
+[2023-03-01T10:37:32.506] [ERROR] default - {}
+[2023-03-01T10:38:04.232] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T10:38:04.246] [INFO] default - Successfully File Upload
+[2023-03-01T10:38:26.340] [ERROR] default - {}
+[2023-03-01T10:39:45.857] [ERROR] default - {}
+[2023-03-01T10:39:53.856] [ERROR] default - {}
+[2023-03-01T10:40:03.217] [ERROR] default - {}
+[2023-03-01T10:40:16.086] [ERROR] default - {}
+[2023-03-01T10:40:27.185] [INFO] default - Class Details displayed
+[2023-03-01T10:40:27.225] [INFO] default - display Student Details
+[2023-03-01T10:40:35.048] [ERROR] default - {}
+[2023-03-01T10:42:48.941] [INFO] default - Class Details displayed
+[2023-03-01T10:42:48.961] [INFO] default - display Student Details
+[2023-03-01T10:43:16.721] [INFO] default - Class Details displayed
+[2023-03-01T10:43:16.917] [INFO] default - display Student Details
+[2023-03-01T10:50:43.601] [INFO] default - Class Details displayed
+[2023-03-01T10:50:43.606] [INFO] default - display Student Details
+[2023-03-01T10:51:21.911] [INFO] default - Class Details displayed
+[2023-03-01T10:51:21.930] [INFO] default - display Student Details
+[2023-03-01T10:51:28.165] [ERROR] default - {}
+[2023-03-01T10:52:25.294] [ERROR] default - {}
+[2023-03-01T10:53:59.912] [INFO] default - Class Details displayed
+[2023-03-01T10:53:59.923] [INFO] default - display Student Details
+[2023-03-01T10:54:12.378] [ERROR] default - {}
+[2023-03-01T10:54:45.155] [INFO] default - Class Details displayed
+[2023-03-01T10:54:45.187] [INFO] default - display Student Details
+[2023-03-01T10:54:47.357] [INFO] default - Class Details displayed
+[2023-03-01T10:54:47.382] [INFO] default - display Student Details
+[2023-03-01T10:54:55.073] [ERROR] default - {}
+[2023-03-01T10:55:14.748] [INFO] default - Class Details displayed
+[2023-03-01T10:55:14.761] [INFO] default - display Student Details
+[2023-03-01T10:55:18.665] [INFO] default - Class Details displayed
+[2023-03-01T10:55:18.684] [INFO] default - display Student Details
+[2023-03-01T10:55:33.007] [INFO] default - Class Details displayed
+[2023-03-01T10:55:33.016] [INFO] default - display Student Details
+[2023-03-01T10:57:22.678] [INFO] default - Class Details displayed
+[2023-03-01T10:57:22.688] [INFO] default - display Student Details
+[2023-03-01T11:15:15.117] [INFO] default - Class Details displayed
+[2023-03-01T11:15:15.132] [INFO] default - display Student Details
+[2023-03-01T11:16:26.809] [INFO] default - Class Details displayed
+[2023-03-01T11:16:26.818] [INFO] default - display Student Details
+[2023-03-01T11:18:19.357] [INFO] default - Class Details displayed
+[2023-03-01T11:18:19.383] [INFO] default - display Student Details
+[2023-03-01T11:19:34.000] [INFO] default - Class Details displayed
+[2023-03-01T11:19:34.014] [INFO] default - display Student Details
+[2023-03-01T11:19:39.799] [INFO] default - Class Details displayed
+[2023-03-01T11:19:39.812] [INFO] default - display Student Details
+[2023-03-01T11:21:29.464] [INFO] default - Class Details displayed
+[2023-03-01T11:21:29.511] [INFO] default - display Student Details
+[2023-03-01T11:21:39.641] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:21:39.645] [INFO] default - Successfully File Upload
+[2023-03-01T11:26:59.353] [INFO] default - display Student Details
+[2023-03-01T11:26:59.619] [INFO] default - Class Details displayed
+[2023-03-01T11:27:26.460] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:27:26.465] [INFO] default - Successfully File Upload
+[2023-03-01T11:28:40.031] [INFO] default - Class Details displayed
+[2023-03-01T11:28:40.135] [INFO] default - display Student Details
+[2023-03-01T11:28:59.295] [INFO] default - Class Details displayed
+[2023-03-01T11:28:59.317] [INFO] default - display Student Details
+[2023-03-01T11:30:17.386] [INFO] default - Class Details displayed
+[2023-03-01T11:30:17.390] [INFO] default - display Student Details
+[2023-03-01T11:30:41.853] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:30:41.856] [INFO] default - Successfully File Upload
+[2023-03-01T11:30:45.955] [INFO] default - Created Student
+[2023-03-01T11:30:46.157] [INFO] default - display Student Details
+[2023-03-01T11:32:09.452] [INFO] default - Class Details displayed
+[2023-03-01T11:32:09.732] [INFO] default - display Student Details
+[2023-03-01T11:32:28.839] [INFO] default - Class Details displayed
+[2023-03-01T11:32:29.070] [INFO] default - display Student Details
+[2023-03-01T11:32:52.294] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:32:52.296] [INFO] default - Successfully File Upload
+[2023-03-01T11:33:30.465] [INFO] default - Class Details displayed
+[2023-03-01T11:33:30.649] [INFO] default - display Student Details
+[2023-03-01T11:33:35.236] [INFO] default - Class Details displayed
+[2023-03-01T11:33:35.243] [INFO] default - display Student Details
+[2023-03-01T11:33:54.072] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:33:54.073] [INFO] default - Successfully File Upload
+[2023-03-01T11:34:06.532] [INFO] default - Created Student
+[2023-03-01T11:34:06.782] [INFO] default - display Student Details
+[2023-03-01T11:34:59.540] [INFO] default - Class Details displayed
+[2023-03-01T11:34:59.586] [INFO] default - display Student Details
+[2023-03-01T11:35:20.847] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:35:20.849] [INFO] default - Successfully File Upload
+[2023-03-01T11:36:05.648] [INFO] default - Class Details displayed
+[2023-03-01T11:36:05.733] [INFO] default - display Student Details
+[2023-03-01T11:36:14.446] [INFO] default - Class Details displayed
+[2023-03-01T11:36:14.474] [INFO] default - display Student Details
+[2023-03-01T11:36:35.712] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:36:35.713] [INFO] default - Successfully File Upload
+[2023-03-01T11:36:41.435] [INFO] default - Created Student
+[2023-03-01T11:36:41.501] [INFO] default - display Student Details
+[2023-03-01T11:37:01.091] [INFO] default - Class Details displayed
+[2023-03-01T11:37:01.170] [INFO] default - display Student Details
+[2023-03-01T11:37:31.779] [INFO] default - Class Details displayed
+[2023-03-01T11:37:31.992] [INFO] default - display Student Details
+[2023-03-01T11:37:58.587] [INFO] default - Class Details displayed
+[2023-03-01T11:37:58.796] [INFO] default - display Student Details
+[2023-03-01T11:39:18.839] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:39:18.840] [INFO] default - Successfully File Upload
+[2023-03-01T11:40:03.265] [INFO] default - Class Details displayed
+[2023-03-01T11:40:03.395] [INFO] default - display Student Details
+[2023-03-01T11:40:14.654] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:40:14.656] [INFO] default - Successfully File Upload
+[2023-03-01T11:40:39.835] [INFO] default - Class Details displayed
+[2023-03-01T11:40:39.894] [INFO] default - display Student Details
+[2023-03-01T11:40:49.540] [INFO] default - Class Details displayed
+[2023-03-01T11:40:49.668] [INFO] default - display Student Details
+[2023-03-01T11:40:57.372] [INFO] default - Class Details displayed
+[2023-03-01T11:40:57.684] [INFO] default - display Student Details
+[2023-03-01T11:41:04.636] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:41:04.637] [INFO] default - Successfully File Upload
+[2023-03-01T11:43:12.240] [INFO] default - display Student Details
+[2023-03-01T11:43:12.708] [INFO] default - Class Details displayed
+[2023-03-01T11:44:33.730] [INFO] default - Class Details displayed
+[2023-03-01T11:44:34.432] [INFO] default - display Student Details
+[2023-03-01T11:58:06.298] [INFO] default - Class Details displayed
+[2023-03-01T11:58:06.319] [INFO] default - display Student Details
+[2023-03-01T11:58:19.283] [ERROR] default - Upload {
+  resolve: [Function (anonymous)],
+  reject: [Function (anonymous)],
+  promise: Promise {
+    {
+      filename: 'CasaDigi-Logo.png',
+      mimetype: 'image/png',
+      encoding: '7bit',
+      createReadStream: [Function: createReadStream]
+    }
+  },
+  file: {
+    filename: 'CasaDigi-Logo.png',
+    mimetype: 'image/png',
+    encoding: '7bit',
+    createReadStream: [Function: createReadStream]
+  }
+}
+[2023-03-01T11:58:19.284] [INFO] default - Successfully File Upload
+[2023-03-01T12:20:49.552] [INFO] default - Class Details displayed
+[2023-03-01T12:20:49.575] [INFO] default - display Student Details
+[2023-03-01T12:21:14.046] [INFO] default - Class Details displayed
+[2023-03-01T12:21:14.068] [INFO] default - display Student Details
+[2023-03-01T12:21:27.176] [INFO] default - Profile Uploader Called
+[2023-03-01T12:21:27.180] [INFO] default - Successfully File Upload
+[2023-03-01T12:30:09.321] [INFO] default - Class Details displayed
+[2023-03-01T12:30:09.403] [INFO] default - display Student Details
+[2023-03-01T12:54:43.020] [INFO] default - Class Details displayed
+[2023-03-01T12:54:50.907] [INFO] default - Successfully Update data from class 63fc964eb9b820ece0b74330
+[2023-03-01T12:54:51.643] [INFO] default - Class Details displayed
+[2023-03-01T12:55:12.269] [INFO] default - Successfully Update data from class 63fc964eb9b820ece0b74330
+[2023-03-01T12:55:12.465] [INFO] default - Class Details displayed
+[2023-03-01T12:55:20.048] [INFO] default - Class Details displayed
+[2023-03-01T12:55:20.056] [INFO] default - Successfully Deleted data from class 63fdcf10edcaff96c1f2f033
+[2023-03-01T12:55:35.238] [INFO] default - Class Details displayed
+[2023-03-01T12:55:40.482] [INFO] default - Successfully Deleted data from class 63fc9775b9b820ece0b7434a
+[2023-03-01T12:55:40.501] [INFO] default - Class Details displayed
+[2023-03-01T12:55:43.776] [INFO] default - Display Teacher Details
+[2023-03-01T12:56:10.277] [INFO] default - A Class is created { name: 'SEN', standard: '9th', section: 'C' }
+[2023-03-01T12:56:10.441] [INFO] default - Class Details displayed
+[2023-03-01T12:56:29.616] [INFO] default - display Student Details
+[2023-03-01T12:56:37.254] [INFO] default - Delete Student Successfully
+[2023-03-01T12:56:37.340] [INFO] default - display Student Details
+[2023-03-01T12:56:41.593] [INFO] default - Delete Student Successfully
+[2023-03-01T12:56:41.658] [INFO] default - display Student Details
+[2023-03-01T12:56:45.283] [INFO] default - Class Details displayed
+[2023-03-01T12:56:45.348] [INFO] default - display Student Details
+[2023-03-01T12:56:53.168] [INFO] default - Delete Student Successfully
+[2023-03-01T12:56:53.351] [INFO] default - display Student Details
+[2023-03-01T12:56:58.935] [INFO] default - Class Details displayed
+[2023-03-01T12:56:59.096] [INFO] default - display Student Details
+[2023-03-01T12:57:28.157] [INFO] default - Profile Uploader Called
+[2023-03-01T12:57:28.159] [INFO] default - Successfully File Upload
+[2023-03-01T12:57:34.090] [INFO] default - Created Student
+[2023-03-01T12:57:34.266] [INFO] default - display Student Details
+[2023-03-01T12:57:53.151] [INFO] default - Class Details displayed
+[2023-03-01T12:57:53.163] [INFO] default - display Student Details
+[2023-03-01T12:58:10.569] [INFO] default - Class Details displayed
+[2023-03-01T12:58:10.625] [INFO] default - display Student Details
+[2023-03-01T12:59:16.275] [INFO] default - Class Details displayed
+[2023-03-01T12:59:16.317] [INFO] default - display Student Details
+[2023-03-01T12:59:21.635] [INFO] default - Display Teacher Details
+[2023-03-01T12:59:32.219] [INFO] default - Update Teacher with ID 63fddac6edcaff96c1f2f0f9
+[2023-03-01T12:59:32.365] [INFO] default - Display Teacher Details
+[2023-03-01T12:59:58.096] [INFO] default - Update Teacher with ID 63fdda30edcaff96c1f2f0f2
+[2023-03-01T12:59:58.181] [INFO] default - Display Teacher Details
+[2023-03-01T13:01:05.773] [INFO] default - Class Details displayed
+[2023-03-01T13:01:05.834] [INFO] default - display Student Details
+[2023-03-01T13:01:44.197] [INFO] default - Class Details displayed
+[2023-03-01T13:01:44.209] [INFO] default - display Student Details
+[2023-03-01T13:02:09.892] [INFO] default - Class Details displayed
+[2023-03-01T13:02:10.160] [INFO] default - display Student Details
+[2023-03-01T13:02:26.179] [INFO] default - Profile Uploader Called
+[2023-03-01T13:02:26.180] [INFO] default - Successfully File Upload
+[2023-03-01T13:03:58.672] [INFO] default - Class Details displayed
+[2023-03-01T13:03:58.689] [INFO] default - display Student Details
+[2023-03-01T13:06:20.155] [INFO] default - Profile Uploader Called
+[2023-03-01T13:06:20.156] [INFO] default - Successfully File Upload
+[2023-03-01T13:09:07.940] [INFO] default - Class Details displayed
+[2023-03-01T13:09:08.210] [INFO] default - display Student Details
+[2023-03-01T13:10:19.190] [INFO] default - Class Details displayed
+[2023-03-01T13:10:19.214] [INFO] default - display Student Details
+[2023-03-01T13:19:08.657] [INFO] default - Profile Uploader Called
+[2023-03-01T13:19:08.661] [INFO] default - Successfully File Upload
+[2023-03-01T13:19:10.888] [INFO] default - Profile Uploader Called
+[2023-03-01T13:19:10.889] [INFO] default - Successfully File Upload
+[2023-03-01T13:19:51.655] [INFO] default - Profile Uploader Called
+[2023-03-01T13:19:51.656] [INFO] default - Successfully File Upload
+[2023-03-01T13:20:12.830] [INFO] default - Profile Uploader Called
+[2023-03-01T13:20:12.832] [INFO] default - Successfully File Upload
+[2023-03-01T13:20:27.783] [INFO] default - Profile Uploader Called
+[2023-03-01T13:20:27.785] [INFO] default - Successfully File Upload
+[2023-03-01T13:20:29.361] [INFO] default - Profile Uploader Called
+[2023-03-01T13:20:29.361] [INFO] default - Successfully File Upload
+[2023-03-01T13:21:24.583] [INFO] default - Profile Uploader Called
+[2023-03-01T13:21:24.587] [INFO] default - Successfully File Upload
+[2023-03-01T13:21:30.284] [INFO] default - Profile Uploader Called
+[2023-03-01T13:21:30.284] [INFO] default - Successfully File Upload
+[2023-03-01T13:22:00.687] [INFO] default - Profile Uploader Called
+[2023-03-01T13:22:00.697] [INFO] default - Successfully File Upload
+[2023-03-01T13:22:28.903] [INFO] default - Class Details displayed
+[2023-03-01T13:22:28.995] [INFO] default - display Student Details
+[2023-03-01T13:22:36.323] [INFO] default - Profile Uploader Called
+[2023-03-01T13:22:36.335] [INFO] default - Successfully File Upload
+[2023-03-01T13:22:45.888] [INFO] default - Profile Uploader Called
+[2023-03-01T13:22:45.889] [INFO] default - Successfully File Upload
+[2023-03-01T13:23:13.537] [INFO] default - Class Details displayed
+[2023-03-01T13:23:13.574] [INFO] default - display Student Details
+[2023-03-01T13:23:31.937] [INFO] default - Profile Uploader Called
+[2023-03-01T13:23:31.938] [INFO] default - Successfully File Upload
+[2023-03-01T14:47:34.240] [INFO] default - Class Details displayed
+[2023-03-01T14:47:34.265] [INFO] default - display Student Details
+[2023-03-01T14:47:45.565] [INFO] default - Profile Uploader Called
+[2023-03-01T14:47:45.576] [INFO] default - Successfully File Upload
+[2023-03-01T14:48:52.245] [INFO] default - Class Details displayed
+[2023-03-01T14:48:52.261] [INFO] default - display Student Details
+[2023-03-01T14:48:58.311] [INFO] default - Profile Uploader Called
+[2023-03-01T14:48:58.312] [INFO] default - Successfully File Upload
+[2023-03-01T14:49:52.174] [INFO] default - Class Details displayed
+[2023-03-01T14:49:52.183] [INFO] default - display Student Details
+[2023-03-01T14:50:13.310] [INFO] default - Class Details displayed
+[2023-03-01T14:50:13.316] [INFO] default - display Student Details
+[2023-03-01T14:50:38.791] [INFO] default - Profile Uploader Called
+[2023-03-01T14:50:38.805] [INFO] default - Successfully File Upload
+[2023-03-01T14:51:29.883] [INFO] default - Class Details displayed
+[2023-03-01T14:51:29.931] [INFO] default - display Student Details
+[2023-03-01T14:52:07.453] [INFO] default - Profile Uploader Called
+[2023-03-01T14:52:07.454] [INFO] default - Successfully File Upload
+[2023-03-01T14:53:17.105] [INFO] default - Class Details displayed
+[2023-03-01T14:53:17.111] [INFO] default - display Student Details
+[2023-03-01T14:54:03.179] [INFO] default - Class Details displayed
+[2023-03-01T14:54:03.192] [INFO] default - display Student Details
+[2023-03-01T14:54:08.121] [INFO] default - Class Details displayed
+[2023-03-01T14:54:08.131] [INFO] default - display Student Details
+[2023-03-01T14:54:13.238] [INFO] default - Profile Uploader Called
+[2023-03-01T14:54:13.239] [INFO] default - Successfully File Upload
+[2023-03-01T14:54:23.555] [INFO] default - Class Details displayed
+[2023-03-01T14:54:23.585] [INFO] default - display Student Details
+[2023-03-01T14:54:29.124] [INFO] default - Profile Uploader Called
+[2023-03-01T14:54:29.124] [INFO] default - Successfully File Upload
+[2023-03-01T14:54:41.298] [INFO] default - Class Details displayed
+[2023-03-01T14:54:41.322] [INFO] default - display Student Details
+[2023-03-01T14:54:48.030] [INFO] default - Profile Uploader Called
+[2023-03-01T14:54:48.031] [INFO] default - Successfully File Upload
+[2023-03-01T14:55:54.204] [INFO] default - Class Details displayed
+[2023-03-01T14:55:54.217] [INFO] default - display Student Details
+[2023-03-01T15:01:34.957] [INFO] default - Class Details displayed
+[2023-03-01T15:01:34.984] [INFO] default - display Student Details
+[2023-03-01T15:01:46.269] [INFO] default - Profile Uploader Called
+[2023-03-01T15:01:46.270] [INFO] default - Successfully File Upload
+[2023-03-01T15:02:11.994] [INFO] default - Profile Uploader Called
+[2023-03-01T15:02:11.994] [INFO] default - Successfully File Upload
+[2023-03-01T15:03:30.505] [INFO] default - display Student Details
+[2023-03-01T15:03:30.961] [INFO] default - Class Details displayed
+[2023-03-01T15:03:38.442] [INFO] default - Profile Uploader Called
+[2023-03-01T15:03:38.443] [INFO] default - Successfully File Upload
+[2023-03-01T15:06:39.819] [INFO] default - Class Details displayed
+[2023-03-01T15:06:39.983] [INFO] default - display Student Details
+[2023-03-01T15:07:10.711] [INFO] default - Profile Uploader Called
+[2023-03-01T15:07:10.712] [INFO] default - Successfully File Upload
+[2023-03-01T15:08:24.088] [INFO] default - Class Details displayed
+[2023-03-01T15:08:24.275] [INFO] default - display Student Details
+[2023-03-01T15:08:36.513] [INFO] default - Class Details displayed
+[2023-03-01T15:08:36.624] [INFO] default - display Student Details
+[2023-03-01T15:08:49.582] [INFO] default - Class Details displayed
+[2023-03-01T15:08:50.900] [INFO] default - display Student Details
+[2023-03-01T15:08:59.588] [INFO] default - Class Details displayed
+[2023-03-01T15:08:59.867] [INFO] default - display Student Details
+[2023-03-01T15:09:07.570] [INFO] default - Profile Uploader Called
+[2023-03-01T15:09:07.571] [INFO] default - Successfully File Upload
+[2023-03-01T15:10:02.094] [INFO] default - Class Details displayed
+[2023-03-01T15:10:02.103] [INFO] default - display Student Details
+[2023-03-01T15:10:15.216] [INFO] default - Class Details displayed
+[2023-03-01T15:10:15.220] [INFO] default - display Student Details
+[2023-03-01T15:10:15.869] [INFO] default - Class Details displayed
+[2023-03-01T15:10:15.889] [INFO] default - display Student Details
+[2023-03-01T15:10:33.036] [INFO] default - Class Details displayed
+[2023-03-01T15:10:33.053] [INFO] default - display Student Details
+[2023-03-01T15:10:35.947] [INFO] default - Class Details displayed
+[2023-03-01T15:10:37.201] [INFO] default - display Student Details
+[2023-03-01T15:10:57.024] [INFO] default - Class Details displayed
+[2023-03-01T15:10:57.315] [INFO] default - display Student Details
+[2023-03-01T15:10:57.853] [INFO] default - Class Details displayed
+[2023-03-01T15:10:57.866] [INFO] default - display Student Details
+[2023-03-01T15:11:05.122] [INFO] default - Profile Uploader Called
+[2023-03-01T15:11:05.123] [INFO] default - Successfully File Upload
+[2023-03-01T15:11:21.709] [INFO] default - Class Details displayed
+[2023-03-01T15:11:21.720] [INFO] default - display Student Details
+[2023-03-01T15:11:22.032] [INFO] default - Class Details displayed
+[2023-03-01T15:11:22.115] [INFO] default - display Student Details
+[2023-03-01T15:11:26.300] [INFO] default - Profile Uploader Called
+[2023-03-01T15:11:26.301] [INFO] default - Successfully File Upload
+[2023-03-01T15:11:40.840] [INFO] default - Profile Uploader Called
+[2023-03-01T15:11:40.841] [INFO] default - Successfully File Upload
+[2023-03-01T15:11:50.765] [INFO] default - Class Details displayed
+[2023-03-01T15:11:50.772] [INFO] default - display Student Details
+[2023-03-01T15:11:52.119] [INFO] default - Class Details displayed
+[2023-03-01T15:11:52.153] [INFO] default - display Student Details
+[2023-03-01T15:13:18.577] [INFO] default - Class Details displayed
+[2023-03-01T15:13:18.584] [INFO] default - display Student Details
+[2023-03-01T15:13:19.545] [INFO] default - Class Details displayed
+[2023-03-01T15:13:19.562] [INFO] default - display Student Details
+[2023-03-01T15:13:25.924] [INFO] default - Profile Uploader Called
+[2023-03-01T15:13:25.925] [INFO] default - Successfully File Upload
+[2023-03-01T15:13:48.156] [INFO] default - Class Details displayed
+[2023-03-01T15:13:49.902] [INFO] default - display Student Details
+[2023-03-01T15:13:51.362] [INFO] default - Class Details displayed
+[2023-03-01T15:13:51.391] [INFO] default - display Student Details
+[2023-03-01T15:13:51.965] [INFO] default - Class Details displayed
+[2023-03-01T15:13:51.981] [INFO] default - display Student Details
+[2023-03-01T15:13:54.467] [INFO] default - Class Details displayed
+[2023-03-01T15:13:54.489] [INFO] default - display Student Details
+[2023-03-01T15:14:02.868] [INFO] default - Profile Uploader Called
+[2023-03-01T15:14:02.869] [INFO] default - Successfully File Upload
+[2023-03-01T15:14:28.595] [INFO] default - Class Details displayed
+[2023-03-01T15:14:29.518] [INFO] default - display Student Details
+[2023-03-01T15:14:31.315] [INFO] default - Class Details displayed
+[2023-03-01T15:14:31.331] [INFO] default - display Student Details
+[2023-03-01T15:14:31.484] [INFO] default - Class Details displayed
+[2023-03-01T15:14:31.539] [INFO] default - display Student Details
+[2023-03-01T15:14:43.669] [INFO] default - Class Details displayed
+[2023-03-01T15:14:43.676] [INFO] default - display Student Details
+[2023-03-01T15:14:54.441] [INFO] default - Class Details displayed
+[2023-03-01T15:14:54.450] [INFO] default - display Student Details
+[2023-03-01T15:14:57.261] [INFO] default - Class Details displayed
+[2023-03-01T15:14:57.391] [INFO] default - display Student Details
+[2023-03-01T15:15:03.308] [INFO] default - Profile Uploader Called
+[2023-03-01T15:15:03.309] [INFO] default - Successfully File Upload
+[2023-03-01T15:15:31.281] [INFO] default - Class Details displayed
+[2023-03-01T15:15:31.293] [INFO] default - display Student Details
+[2023-03-01T15:15:33.345] [INFO] default - Class Details displayed
+[2023-03-01T15:15:33.384] [INFO] default - display Student Details
+[2023-03-01T15:15:38.050] [INFO] default - Class Details displayed
+[2023-03-01T15:15:38.053] [INFO] default - display Student Details
+[2023-03-01T15:15:41.433] [INFO] default - Class Details displayed
+[2023-03-01T15:15:41.485] [INFO] default - display Student Details
+[2023-03-01T15:16:14.028] [INFO] default - Class Details displayed
+[2023-03-01T15:16:14.041] [INFO] default - display Student Details
+[2023-03-01T15:16:16.485] [INFO] default - Class Details displayed
+[2023-03-01T15:16:16.637] [INFO] default - display Student Details
+[2023-03-01T15:16:23.093] [INFO] default - Profile Uploader Called
+[2023-03-01T15:16:23.099] [INFO] default - Successfully File Upload
+[2023-03-01T15:16:50.368] [INFO] default - Class Details displayed
+[2023-03-01T15:16:50.377] [INFO] default - display Student Details
+[2023-03-01T15:16:52.163] [INFO] default - Class Details displayed
+[2023-03-01T15:16:52.199] [INFO] default - display Student Details
+[2023-03-01T15:16:58.896] [INFO] default - Class Details displayed
+[2023-03-01T15:16:58.906] [INFO] default - display Student Details
+[2023-03-01T15:16:59.312] [INFO] default - Class Details displayed
+[2023-03-01T15:16:59.616] [INFO] default - display Student Details
+[2023-03-01T15:17:16.655] [INFO] default - Class Details displayed
+[2023-03-01T15:17:16.684] [INFO] default - display Student Details
+[2023-03-01T15:17:19.764] [INFO] default - Class Details displayed
+[2023-03-01T15:17:19.859] [INFO] default - display Student Details
+[2023-03-01T15:17:24.463] [INFO] default - Class Details displayed
+[2023-03-01T15:17:24.473] [INFO] default - display Student Details
+[2023-03-01T15:17:26.910] [INFO] default - Class Details displayed
+[2023-03-01T15:17:26.913] [INFO] default - display Student Details
+[2023-03-01T15:17:29.089] [INFO] default - Class Details displayed
+[2023-03-01T15:17:29.097] [INFO] default - display Student Details
+[2023-03-01T15:17:30.499] [INFO] default - Class Details displayed
+[2023-03-01T15:17:30.521] [INFO] default - display Student Details
+[2023-03-01T15:17:36.780] [INFO] default - Class Details displayed
+[2023-03-01T15:17:36.788] [INFO] default - display Student Details
+[2023-03-01T15:17:37.102] [INFO] default - display Student Details
+[2023-03-01T15:17:37.113] [INFO] default - Class Details displayed
+[2023-03-01T15:17:42.407] [INFO] default - Profile Uploader Called
+[2023-03-01T15:17:42.408] [INFO] default - Successfully File Upload
+[2023-03-01T15:18:55.897] [INFO] default - Class Details displayed
+[2023-03-01T15:18:55.915] [INFO] default - display Student Details
+[2023-03-01T15:18:56.942] [INFO] default - Class Details displayed
+[2023-03-01T15:18:57.071] [INFO] default - display Student Details
+[2023-03-01T15:19:26.380] [INFO] default - Class Details displayed
+[2023-03-01T15:19:26.399] [INFO] default - display Student Details
+[2023-03-01T15:19:27.325] [INFO] default - Class Details displayed
+[2023-03-01T15:19:27.355] [INFO] default - display Student Details
+[2023-03-01T15:19:27.848] [INFO] default - Class Details displayed
+[2023-03-01T15:19:27.873] [INFO] default - display Student Details
+[2023-03-01T15:19:29.479] [INFO] default - Class Details displayed
+[2023-03-01T15:19:29.609] [INFO] default - display Student Details
+[2023-03-01T15:19:48.434] [INFO] default - Class Details displayed
+[2023-03-01T15:19:48.441] [INFO] default - display Student Details
+[2023-03-01T15:19:49.417] [INFO] default - Class Details displayed
+[2023-03-01T15:19:49.622] [INFO] default - display Student Details
+[2023-03-01T15:20:14.395] [INFO] default - Class Details displayed
+[2023-03-01T15:20:14.401] [INFO] default - display Student Details
+[2023-03-01T15:20:14.903] [INFO] default - Class Details displayed
+[2023-03-01T15:20:14.907] [INFO] default - display Student Details
+[2023-03-01T15:21:22.623] [INFO] default - Class Details displayed
+[2023-03-01T15:21:22.643] [INFO] default - display Student Details
+[2023-03-01T15:21:23.525] [INFO] default - Class Details displayed
+[2023-03-01T15:21:23.595] [INFO] default - display Student Details
+[2023-03-01T15:21:25.179] [INFO] default - Class Details displayed
+[2023-03-01T15:21:25.185] [INFO] default - display Student Details
+[2023-03-01T15:21:26.854] [INFO] default - Class Details displayed
+[2023-03-01T15:21:27.019] [INFO] default - display Student Details
+[2023-03-01T15:21:33.173] [INFO] default - Profile Uploader Called
+[2023-03-01T15:21:33.177] [INFO] default - Successfully File Upload
+[2023-03-01T15:22:22.835] [INFO] default - Class Details displayed
+[2023-03-01T15:22:22.842] [INFO] default - display Student Details
+[2023-03-01T15:22:23.322] [INFO] default - Class Details displayed
+[2023-03-01T15:22:23.352] [INFO] default - display Student Details
+[2023-03-01T15:22:36.855] [INFO] default - Profile Uploader Called
+[2023-03-01T15:22:36.856] [INFO] default - Successfully File Upload
+[2023-03-01T15:25:15.964] [INFO] default - Class Details displayed
+[2023-03-01T15:25:16.030] [INFO] default - display Student Details
+[2023-03-01T15:25:16.465] [INFO] default - Class Details displayed
+[2023-03-01T15:25:16.481] [INFO] default - display Student Details
+[2023-03-01T15:25:20.789] [INFO] default - Profile Uploader Called
+[2023-03-01T15:25:20.789] [INFO] default - Successfully File Upload
+[2023-03-01T15:25:42.188] [INFO] default - Class Details displayed
+[2023-03-01T15:25:42.198] [INFO] default - display Student Details
+[2023-03-01T15:25:44.910] [INFO] default - Class Details displayed
+[2023-03-01T15:25:44.937] [INFO] default - display Student Details
+[2023-03-01T15:25:47.474] [INFO] default - Class Details displayed
+[2023-03-01T15:25:47.480] [INFO] default - display Student Details
+[2023-03-01T15:25:50.999] [INFO] default - Class Details displayed
+[2023-03-01T15:25:51.011] [INFO] default - display Student Details
+[2023-03-01T15:25:52.428] [INFO] default - Class Details displayed
+[2023-03-01T15:25:52.464] [INFO] default - display Student Details
+[2023-03-01T15:26:00.876] [INFO] default - Class Details displayed
+[2023-03-01T15:26:00.898] [INFO] default - display Student Details
+[2023-03-01T15:26:02.456] [INFO] default - display Student Details
+[2023-03-01T15:26:02.642] [INFO] default - Class Details displayed
+[2023-03-01T15:26:14.020] [INFO] default - Class Details displayed
+[2023-03-01T15:26:14.034] [INFO] default - display Student Details
+[2023-03-01T15:26:15.393] [INFO] default - Class Details displayed
+[2023-03-01T15:26:15.400] [INFO] default - display Student Details
+[2023-03-01T15:26:20.605] [INFO] default - Class Details displayed
+[2023-03-01T15:26:20.642] [INFO] default - display Student Details
+[2023-03-01T15:26:21.149] [INFO] default - Class Details displayed
+[2023-03-01T15:26:21.158] [INFO] default - display Student Details
+[2023-03-01T15:26:33.153] [INFO] default - Profile Uploader Called
+[2023-03-01T15:26:33.154] [INFO] default - Successfully File Upload
+[2023-03-01T15:27:24.073] [INFO] default - Class Details displayed
+[2023-03-01T15:27:24.087] [INFO] default - display Student Details
+[2023-03-01T15:27:24.940] [INFO] default - Class Details displayed
+[2023-03-01T15:27:24.973] [INFO] default - display Student Details
+[2023-03-01T15:27:47.359] [INFO] default - Class Details displayed
+[2023-03-01T15:27:47.366] [INFO] default - display Student Details
+[2023-03-01T15:27:47.912] [INFO] default - Class Details displayed
+[2023-03-01T15:27:47.951] [INFO] default - display Student Details
+[2023-03-01T15:27:54.027] [INFO] default - Profile Uploader Called
+[2023-03-01T15:27:54.027] [INFO] default - Successfully File Upload
+[2023-03-01T15:31:06.367] [INFO] default - Class Details displayed
+[2023-03-01T15:31:06.370] [INFO] default - display Student Details
+[2023-03-01T15:31:07.055] [INFO] default - Class Details displayed
+[2023-03-01T15:31:07.143] [INFO] default - display Student Details
+[2023-03-01T15:31:54.225] [INFO] default - Class Details displayed
+[2023-03-01T15:31:54.242] [INFO] default - display Student Details
+[2023-03-01T15:31:55.390] [INFO] default - Class Details displayed
+[2023-03-01T15:31:55.765] [INFO] default - display Student Details
+[2023-03-01T15:32:01.492] [INFO] default - Profile Uploader Called
+[2023-03-01T15:32:01.492] [INFO] default - Successfully File Upload
+[2023-03-01T15:32:18.119] [INFO] default - Class Details displayed
+[2023-03-01T15:32:18.131] [INFO] default - display Student Details
+[2023-03-01T15:32:18.988] [INFO] default - Class Details displayed
+[2023-03-01T15:32:19.355] [INFO] default - display Student Details
+[2023-03-01T15:32:23.323] [INFO] default - Profile Uploader Called
+[2023-03-01T15:32:23.324] [INFO] default - Successfully File Upload
+[2023-03-01T15:32:37.261] [INFO] default - Class Details displayed
+[2023-03-01T15:32:37.268] [INFO] default - display Student Details
+[2023-03-01T15:32:38.122] [INFO] default - Class Details displayed
+[2023-03-01T15:32:38.635] [INFO] default - display Student Details
+[2023-03-01T15:32:44.154] [INFO] default - Profile Uploader Called
+[2023-03-01T15:32:44.156] [INFO] default - Successfully File Upload
+[2023-03-01T15:32:53.439] [INFO] default - Class Details displayed
+[2023-03-01T15:32:53.442] [INFO] default - display Student Details
+[2023-03-01T15:32:54.211] [INFO] default - Class Details displayed
+[2023-03-01T15:32:54.327] [INFO] default - display Student Details
+[2023-03-01T15:33:41.456] [INFO] default - Class Details displayed
+[2023-03-01T15:33:41.462] [INFO] default - display Student Details
+[2023-03-01T15:33:42.276] [INFO] default - Class Details displayed
+[2023-03-01T15:33:42.422] [INFO] default - display Student Details
+[2023-03-01T15:33:49.895] [INFO] default - Profile Uploader Called
+[2023-03-01T15:33:49.895] [INFO] default - Successfully File Upload
+[2023-03-01T15:34:06.997] [INFO] default - Profile Uploader Called
+[2023-03-01T15:34:06.997] [INFO] default - Successfully File Upload
+[2023-03-01T15:34:28.744] [INFO] default - display Student Details
+[2023-03-01T15:34:28.841] [INFO] default - Class Details displayed
+[2023-03-01T15:34:35.294] [INFO] default - Class Details displayed
+[2023-03-01T15:34:35.613] [INFO] default - display Student Details
+[2023-03-01T15:34:43.386] [INFO] default - Class Details displayed
+[2023-03-01T15:34:43.390] [INFO] default - display Student Details
+[2023-03-01T15:34:48.642] [INFO] default - Profile Uploader Called
+[2023-03-01T15:34:48.642] [INFO] default - Successfully File Upload
+[2023-03-01T15:35:05.770] [INFO] default - Class Details displayed
+[2023-03-01T15:35:05.913] [INFO] default - display Student Details
+[2023-03-01T15:35:09.471] [INFO] default - Class Details displayed
+[2023-03-01T15:35:09.693] [INFO] default - display Student Details
+[2023-03-01T15:35:31.352] [INFO] default - Profile Uploader Called
+[2023-03-01T15:35:31.352] [INFO] default - Successfully File Upload
+[2023-03-01T15:35:36.416] [INFO] default - Created Student
+[2023-03-01T15:35:36.616] [INFO] default - display Student Details
+[2023-03-01T15:36:08.088] [INFO] default - Class Details displayed
+[2023-03-01T15:36:08.125] [INFO] default - display Student Details
+[2023-03-01T15:36:20.530] [INFO] default - Class Details displayed
+[2023-03-01T15:36:20.556] [INFO] default - display Student Details
+[2023-03-01T15:36:33.287] [INFO] default - Class Details displayed
+[2023-03-01T15:36:33.302] [INFO] default - display Student Details
+[2023-03-01T15:37:47.137] [INFO] default - Delete Student Successfully
+[2023-03-01T15:37:47.539] [INFO] default - display Student Details
+[2023-03-01T15:37:49.899] [INFO] default - Delete Student Successfully
+[2023-03-01T15:37:50.035] [INFO] default - display Student Details
+[2023-03-01T15:37:52.239] [INFO] default - Delete Student Successfully
+[2023-03-01T15:37:52.466] [INFO] default - display Student Details
+[2023-03-01T15:38:44.466] [INFO] default - Class Details displayed
+[2023-03-01T15:38:44.499] [INFO] default - display Student Details
+[2023-03-01T15:41:28.696] [INFO] default - display Student Details
+[2023-03-01T15:41:28.791] [INFO] default - Class Details displayed
+[2023-03-01T15:42:49.735] [INFO] default - Class Details displayed
+[2023-03-01T15:42:50.060] [INFO] default - display Student Details
+[2023-03-01T15:43:00.966] [INFO] default - Class Details displayed
+[2023-03-01T15:43:01.062] [INFO] default - display Student Details
+[2023-03-01T15:43:21.767] [INFO] default - Class Details displayed
+[2023-03-01T15:43:21.890] [INFO] default - display Student Details
+[2023-03-01T15:43:31.334] [INFO] default - Profile Uploader Called
+[2023-03-01T15:43:31.341] [INFO] default - Successfully File Upload
+[2023-03-01T15:43:35.363] [INFO] default - Update Student Successfully
+[2023-03-01T15:43:35.512] [INFO] default - display Student Details
+[2023-03-01T15:43:58.876] [INFO] default - Class Details displayed
+[2023-03-01T15:43:58.883] [INFO] default - display Student Details
+[2023-03-01T15:44:03.525] [INFO] default - Class Details displayed
+[2023-03-01T15:44:03.738] [INFO] default - display Student Details
+[2023-03-01T15:44:31.215] [INFO] default - Update Student Successfully
+[2023-03-01T15:44:31.510] [INFO] default - display Student Details
+[2023-03-01T15:45:07.503] [INFO] default - Class Details displayed
+[2023-03-01T15:45:07.564] [INFO] default - display Student Details
+[2023-03-01T15:45:49.911] [INFO] default - Class Details displayed
+[2023-03-01T15:45:49.940] [INFO] default - display Student Details
+[2023-03-01T15:45:59.413] [INFO] default - Class Details displayed
+[2023-03-01T15:45:59.578] [INFO] default - display Student Details
+[2023-03-01T15:46:28.625] [INFO] default - Class Details displayed
+[2023-03-01T15:46:28.673] [INFO] default - display Student Details
+[2023-03-01T15:46:45.184] [INFO] default - Profile Uploader Called
+[2023-03-01T15:46:45.185] [INFO] default - Successfully File Upload
+[2023-03-01T15:46:46.940] [INFO] default - Update Student Successfully
+[2023-03-01T15:46:47.025] [INFO] default - display Student Details
+[2023-03-01T15:46:58.513] [INFO] default - Update Student Successfully
+[2023-03-01T15:46:58.579] [INFO] default - display Student Details
+[2023-03-01T15:48:35.232] [INFO] default - Class Details displayed
+[2023-03-01T15:48:35.634] [INFO] default - display Student Details
+[2023-03-01T15:50:35.423] [INFO] default - Class Details displayed
+[2023-03-01T15:50:35.445] [INFO] default - display Student Details
+[2023-03-01T15:51:07.624] [INFO] default - Class Details displayed
+[2023-03-01T15:51:07.657] [INFO] default - display Student Details
+[2023-03-01T15:51:21.071] [INFO] default - Class Details displayed
+[2023-03-01T15:51:21.079] [INFO] default - display Student Details
+[2023-03-01T15:51:38.785] [INFO] default - Class Details displayed
+[2023-03-01T15:51:38.796] [INFO] default - display Student Details
+[2023-03-01T15:51:51.777] [INFO] default - Class Details displayed
+[2023-03-01T15:51:52.124] [INFO] default - display Student Details
+[2023-03-01T15:52:11.220] [INFO] default - Class Details displayed
+[2023-03-01T15:52:11.268] [INFO] default - display Student Details
+[2023-03-01T15:52:27.484] [INFO] default - display Student Details
+[2023-03-01T15:52:27.945] [INFO] default - Class Details displayed
+[2023-03-01T15:52:39.328] [INFO] default - Class Details displayed
+[2023-03-01T15:52:39.344] [INFO] default - display Student Details
+[2023-03-01T15:53:15.778] [INFO] default - Class Details displayed
+[2023-03-01T15:53:15.908] [INFO] default - display Student Details
+[2023-03-01T15:53:21.951] [INFO] default - Class Details displayed
+[2023-03-01T15:53:21.963] [INFO] default - display Student Details
+[2023-03-01T15:54:03.995] [INFO] default - Profile Uploader Called
+[2023-03-01T15:54:03.996] [INFO] default - Successfully File Upload
+[2023-03-01T15:54:08.240] [INFO] default - Class Details displayed
+[2023-03-01T15:54:08.302] [INFO] default - display Student Details
+[2023-03-01T15:54:09.851] [INFO] default - Display Teacher Details
+[2023-03-01T15:54:33.491] [INFO] default - Class Details displayed
+[2023-03-01T15:54:33.525] [INFO] default - Display Teacher Details
+[2023-03-01T15:54:50.308] [INFO] default - Class Details displayed
+[2023-03-01T15:54:50.361] [INFO] default - Display Teacher Details
+[2023-03-01T15:55:02.736] [INFO] default - Class Details displayed
+[2023-03-01T15:55:02.781] [INFO] default - Display Teacher Details
+[2023-03-01T15:57:16.361] [INFO] default - Class Details displayed
+[2023-03-01T15:57:16.385] [INFO] default - Display Teacher Details
+[2023-03-01T15:57:23.368] [INFO] default - Profile Uploader Called
+[2023-03-01T15:57:23.368] [INFO] default - Successfully File Upload
+[2023-03-01T15:57:33.328] [INFO] default - Profile Uploader Called
+[2023-03-01T15:57:33.329] [INFO] default - Successfully File Upload
+[2023-03-01T15:58:43.627] [INFO] default - Class Details displayed
+[2023-03-01T15:58:43.841] [INFO] default - Display Teacher Details
+[2023-03-01T15:58:53.196] [INFO] default - Class Details displayed
+[2023-03-01T15:58:53.366] [INFO] default - Display Teacher Details
+[2023-03-01T15:59:25.619] [INFO] default - Class Details displayed
+[2023-03-01T15:59:25.649] [INFO] default - Display Teacher Details
+[2023-03-01T15:59:51.515] [INFO] default - Display Teacher Details
+[2023-03-01T15:59:51.529] [INFO] default - Class Details displayed
+[2023-03-01T16:00:03.358] [INFO] default - Profile Uploader Called
+[2023-03-01T16:00:03.359] [INFO] default - Successfully File Upload
+[2023-03-01T16:02:56.075] [INFO] default - Class Details displayed
+[2023-03-01T16:02:56.214] [INFO] default - Display Teacher Details
+[2023-03-01T16:03:16.749] [INFO] default - Profile Uploader Called
+[2023-03-01T16:03:16.750] [INFO] default - Successfully File Upload
+[2023-03-01T16:04:53.672] [INFO] default - Create Teacher Vasu
+[2023-03-01T16:04:54.069] [INFO] default - Display Teacher Details
+[2023-03-01T16:05:06.003] [INFO] default - display Student Details
+[2023-03-01T16:05:15.351] [INFO] default - Update Teacher with ID 63ff2a4d924f5a05b546d44f
+[2023-03-01T16:05:15.459] [INFO] default - Display Teacher Details
+[2023-03-01T16:05:37.310] [INFO] default - Class Details displayed
+[2023-03-01T16:05:37.341] [INFO] default - Display Teacher Details
+[2023-03-01T16:12:33.497] [INFO] default - Class Details displayed
+[2023-03-01T16:12:33.531] [INFO] default - Display Teacher Details
+[2023-03-01T16:12:41.276] [INFO] default - Class Details displayed
+[2023-03-01T16:12:41.281] [INFO] default - Display Teacher Details
+[2023-03-01T16:12:47.358] [INFO] default - Class Details displayed
+[2023-03-01T16:12:47.422] [INFO] default - Display Teacher Details
+[2023-03-01T16:12:53.023] [INFO] default - Class Details displayed
+[2023-03-01T16:12:53.056] [INFO] default - Display Teacher Details
+[2023-03-01T16:13:08.104] [INFO] default - Class Details displayed
+[2023-03-01T16:13:08.118] [INFO] default - Display Teacher Details
+[2023-03-01T16:13:12.853] [INFO] default - Class Details displayed
+[2023-03-01T16:13:12.878] [INFO] default - Display Teacher Details
+[2023-03-01T16:13:19.609] [INFO] default - Class Details displayed
+[2023-03-01T16:13:19.638] [INFO] default - Display Teacher Details
+[2023-03-01T16:13:27.349] [INFO] default - Class Details displayed
+[2023-03-01T16:13:27.373] [INFO] default - Display Teacher Details
+[2023-03-01T16:15:59.491] [INFO] default - Class Details displayed
+[2023-03-01T16:15:59.507] [INFO] default - Display Teacher Details
+[2023-03-01T16:16:07.924] [INFO] default - Class Details displayed
+[2023-03-01T16:16:07.934] [INFO] default - Display Teacher Details
+[2023-03-01T16:16:12.568] [INFO] default - Class Details displayed
+[2023-03-01T16:16:12.585] [INFO] default - Display Teacher Details
+[2023-03-01T16:16:21.559] [INFO] default - Class Details displayed
+[2023-03-01T16:16:21.589] [INFO] default - Display Teacher Details
+[2023-03-01T16:16:27.384] [INFO] default - Class Details displayed
+[2023-03-01T16:16:27.413] [INFO] default - Display Teacher Details
+[2023-03-01T16:16:33.187] [INFO] default - Class Details displayed
+[2023-03-01T16:16:33.195] [INFO] default - Display Teacher Details
+[2023-03-01T16:17:55.556] [INFO] default - Class Details displayed
+[2023-03-01T16:17:55.582] [INFO] default - Display Teacher Details
+[2023-03-01T16:18:18.434] [INFO] default - Class Details displayed
+[2023-03-01T16:18:18.441] [INFO] default - Display Teacher Details
+[2023-03-01T16:18:22.549] [INFO] default - Profile Uploader Called
+[2023-03-01T16:18:22.553] [INFO] default - Successfully File Upload
+[2023-03-01T16:19:15.014] [INFO] default - Class Details displayed
+[2023-03-01T16:19:15.065] [INFO] default - Display Teacher Details
+[2023-03-01T16:19:18.088] [INFO] default - Class Details displayed
+[2023-03-01T16:19:18.128] [INFO] default - Display Teacher Details
+[2023-03-01T16:19:32.245] [INFO] default - Class Details displayed
+[2023-03-01T16:19:32.299] [INFO] default - Display Teacher Details
+[2023-03-01T16:19:34.276] [INFO] default - Class Details displayed
+[2023-03-01T16:19:34.439] [INFO] default - Display Teacher Details
+[2023-03-01T16:19:36.564] [INFO] default - display Student Details
+[2023-03-01T16:19:50.084] [INFO] default - Class Details displayed
+[2023-03-01T16:19:50.091] [INFO] default - display Student Details
+[2023-03-01T16:20:01.745] [INFO] default - Class Details displayed
+[2023-03-01T16:20:01.758] [INFO] default - display Student Details
+[2023-03-01T16:20:04.266] [INFO] default - Class Details displayed
+[2023-03-01T16:20:04.291] [INFO] default - display Student Details
+[2023-03-01T16:20:17.806] [INFO] default - Class Details displayed
+[2023-03-01T16:20:17.826] [INFO] default - display Student Details
+[2023-03-01T16:20:21.612] [INFO] default - Class Details displayed
+[2023-03-01T16:20:21.630] [INFO] default - display Student Details
+[2023-03-01T16:20:34.287] [INFO] default - Class Details displayed
+[2023-03-01T16:20:34.307] [INFO] default - display Student Details
+[2023-03-01T16:20:37.658] [INFO] default - Class Details displayed
+[2023-03-01T16:20:37.724] [INFO] default - display Student Details
+[2023-03-01T16:20:40.493] [INFO] default - Class Details displayed
+[2023-03-01T16:20:40.513] [INFO] default - display Student Details
+[2023-03-01T16:20:49.972] [INFO] default - Class Details displayed
+[2023-03-01T16:20:49.979] [INFO] default - display Student Details
+[2023-03-01T16:21:05.568] [INFO] default - Class Details displayed
+[2023-03-01T16:21:05.600] [INFO] default - display Student Details
+[2023-03-01T16:21:10.272] [INFO] default - Class Details displayed
+[2023-03-01T16:21:10.298] [INFO] default - display Student Details
+[2023-03-01T16:21:19.453] [INFO] default - Class Details displayed
+[2023-03-01T16:21:19.461] [INFO] default - display Student Details
+[2023-03-01T16:22:33.680] [INFO] default - Class Details displayed
+[2023-03-01T16:22:33.704] [INFO] default - display Student Details
+[2023-03-01T16:22:38.190] [INFO] default - Class Details displayed
+[2023-03-01T16:22:38.208] [INFO] default - display Student Details
+[2023-03-01T16:22:49.721] [INFO] default - Class Details displayed
+[2023-03-01T16:22:49.731] [INFO] default - display Student Details
+[2023-03-01T16:23:05.852] [INFO] default - Class Details displayed
+[2023-03-01T16:23:05.866] [INFO] default - display Student Details
+[2023-03-01T16:28:16.463] [INFO] default - Class Details displayed
+[2023-03-01T16:28:16.485] [INFO] default - display Student Details
+[2023-03-01T16:28:21.904] [INFO] default - Class Details displayed
+[2023-03-01T16:28:21.935] [INFO] default - display Student Details
+[2023-03-01T16:28:30.384] [INFO] default - Class Details displayed
+[2023-03-01T16:28:30.394] [INFO] default - display Student Details
+[2023-03-01T16:29:01.023] [INFO] default - Display Teacher Details
+[2023-03-01T16:29:06.292] [INFO] default - Successfully Update data from class 63fc964eb9b820ece0b74330
+[2023-03-01T16:29:06.349] [INFO] default - Class Details displayed
+[2023-03-01T16:29:15.544] [INFO] default - Successfully Update data from class 63fc9687b9b820ece0b74337
+[2023-03-01T16:29:15.592] [INFO] default - Class Details displayed
+[2023-03-01T16:29:23.396] [INFO] default - Profile Uploader Called
+[2023-03-01T16:29:23.396] [INFO] default - Successfully File Upload
+[2023-03-01T16:29:46.595] [INFO] default - Class Details displayed
+[2023-03-01T16:29:46.620] [INFO] default - Display Teacher Details
+[2023-03-01T16:29:54.244] [INFO] default - Class Details displayed
+[2023-03-01T16:29:54.251] [INFO] default - Display Teacher Details

@@ -22,6 +22,7 @@ input CreateTeacherInput {
   email: String!
   dateOfbirth: DateTime!
   address: String!
+  profilePhoto:String
 }
 
 type AddTeachersResponse {
